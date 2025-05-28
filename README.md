@@ -15,7 +15,7 @@ Ensure compatibility with `lm-evaluation-harness` v0.4.3. Our experiments are co
 
 Note: local environment differences (such as operating system version, GPU type) may lead to slight variations in evaluation results. Please refer to your local results for specifics.
 
-## Installation Guide
+## Setup
 ```
 git clone https://github.com/cytan17726/UAQ_Fact.git
 
@@ -38,4 +38,7 @@ Refer to `eval_example_llama.sh` for an example evaluation of Meta-Llama-3-8B-In
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache-2.0 license.
+
+## Citation
+To add.
