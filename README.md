@@ -16,6 +16,7 @@ Ensure compatibility with `lm-evaluation-harness` v0.4.3. Our experiments are co
 
 Note: local environment differences (such as operating system version, GPU type) may lead to slight variations in evaluation results. Please refer to your local results for specifics.
 
+
 ## Setup
 
 ```
@@ -42,6 +43,7 @@ You can calculate knowledge pass rate (KPR) using `parse_task2_res.py`.
 - `lm-evaluation-harness`: Version 0.4.3 from [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness), with some evaluation metrics defined in `lm_eval/api/metrics.py` (`NEC_refuse` and `EM_hit`)
 - `task`: Evaluation parameters defined according to `lm-evaluation-harness`
 - `eval_example_llama.sh`: Example evaluation script using Meta-Llama-3-8B-Instruct
+- `parse_task2_res.py`: calculate knowledge pass rate (KPR) in Task 2
 
 
 ## License
