@@ -1,0 +1,9 @@
+"dataset_kwargs":
+  "data_files":
+    "test": "data/1.0/task3/time/time_sup_logic_ab_en.json"
+    "validation": "data/1.0/task3/dev/shuffled/time_en.json"
+"description": "Answer the given question in no more than one sentence. Please keep\
+  \ your answer short and concise. Return ##None## if there is no suitable answer.\n\
+  \n"
+"include": "_arr_generate_until_template_base_yaml"
+"task": "task3_time_en_ab"

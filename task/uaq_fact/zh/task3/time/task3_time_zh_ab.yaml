@@ -1,0 +1,7 @@
+"dataset_kwargs":
+  "data_files":
+    "test": "data/1.0/task3/time/time_sup_logic_ab_zh.json"
+    "validation": "data/1.0/task3/dev/shuffled/time_zh.json"
+"description": "在1句话以内回答给定问题。确保你的答案简短并简洁。如果你认为不存在合适答案，返回##None##。\n\n"
+"include": "_arr_generate_until_template_base_yaml"
+"task": "task3_time_zh_ab"

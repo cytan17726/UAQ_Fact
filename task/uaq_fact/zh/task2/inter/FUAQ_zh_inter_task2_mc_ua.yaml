@@ -1,0 +1,7 @@
+"dataset_kwargs":
+  "data_files":
+    "test": "data/1.0/task2/inter_task2_zh_choice.json"
+"description": "下列是多项选择题（有答案）\n\n"
+"doc_to_text": "问题: {{question.strip()}}\n(A) {{options[0]}} (B) {{options[1]}} (C) {{options[2]}} (D) {{options[3]}}\n答案:"
+"include": "_arr_multiple_choice_sup_template_yaml"
+"task": "FUAQ_zh_inter_task2_mc_ua"

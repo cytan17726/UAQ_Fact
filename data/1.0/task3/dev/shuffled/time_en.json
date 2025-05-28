@@ -1,0 +1,434 @@
+[
+    {
+        "qid": "time_0_ua_en_icl",
+        "question": "Which position did Jean Montalat hold from 1907 to 1912?",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "No",
+        "sup_questions": [
+            "When did Jean Montalat start holding member of the French National Assembly the first time?",
+            "When did Jean Montalat stop holding member of the French National Assembly the last time?"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1951",
+                "label": "1951"
+            },
+            {
+                "id": "1971",
+                "label": "1971"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_0_ab_en_icl",
+        "question": "Which position did Jean Montalat hold between 1951 and 1956?",
+        "answer": [
+            {
+                "label": "member of the French National Assembly",
+                "id": "Q3044918"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "Yes",
+        "sup_questions": [
+            "When did Jean Montalat start holding member of the French National Assembly the first time?",
+            "When did Jean Montalat stop holding member of the French National Assembly the last time?"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1951",
+                "label": "1951"
+            },
+            {
+                "id": "1971",
+                "label": "1971"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_1_ua_en_icl",
+        "question": "Who was the spouse of Yao Ming from 1975 to 1980?",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "No",
+        "sup_questions": [
+            "When did Yao Ming marry Ye Li the first time?",
+            "When did Yao Ming divorce with None the last time"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "2007",
+                "label": "2007"
+            },
+            {
+                "id": "-1",
+                "label": "-1"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_1_ab_en_icl",
+        "question": "Who was the spouse of Yao Ming from 2007 to 2024?",
+        "answer": [
+            {
+                "label": "Ye Li",
+                "id": "Q986169"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "Yes",
+        "sup_questions": [
+            "When did Yao Ming marry Ye Li the first time?",
+            "When did Yao Ming divorce with None the last time"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "2007",
+                "label": "2007"
+            },
+            {
+                "id": "-1",
+                "label": "-1"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_2_ua_en_icl",
+        "question": "What was Albert Einstein's country of citizenship in 1874?",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "No",
+        "sup_questions": [
+            "When did Albert Einstein acquire German Empire the first time?",
+            "When did Albert Einstein renounce United States of America the last time?"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1879",
+                "label": "1879"
+            },
+            {
+                "id": "1940",
+                "label": "1940"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_2_ab_en_icl",
+        "question": "What was Albert Einstein's country of citizenship in the year of 1971?",
+        "answer": [
+            {
+                "label": "German Empire",
+                "id": "Q43287"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "Yes",
+        "sup_questions": [
+            "When did Albert Einstein acquire German Empire the first time?",
+            "When did Albert Einstein renounce United States of America the last time?"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1879",
+                "label": "1879"
+            },
+            {
+                "id": "1940",
+                "label": "1940"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_3_ua_en_icl",
+        "question": "Which team did Kobe Bryant play for in the year of 1965?",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "No",
+        "sup_questions": [
+            "When did Kobe Bryant start playing for Los Angeles Lakers the first time?",
+            "When did Kobe Bryant stop playing for Los Angeles Lakers the last time?"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1996",
+                "label": "1996"
+            },
+            {
+                "id": "2016",
+                "label": "2016"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_3_ab_en_icl",
+        "question": "Which team did Kobe Bryant play for in 1996?",
+        "answer": [
+            {
+                "label": "Los Angeles Lakers",
+                "id": "Q121783"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "Yes",
+        "sup_questions": [
+            "When did Kobe Bryant start playing for Los Angeles Lakers the first time?",
+            "When did Kobe Bryant stop playing for Los Angeles Lakers the last time?"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1996",
+                "label": "1996"
+            },
+            {
+                "id": "2016",
+                "label": "2016"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_4_ua_en_icl",
+        "question": "Which award did Larry Rohter receive in 1945?",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "No",
+        "sup_questions": [
+            "When did Larry Rohter receive Maria Moors Cabot Prizes the first time?",
+            "When did Larry Rohter receive Maria Moors Cabot Prizes the last time?"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1998",
+                "label": "1998"
+            },
+            {
+                "id": "1998",
+                "label": "1998"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_4_ab_en_icl",
+        "question": "Which award did Larry Rohter receive in the year of 1998?",
+        "answer": [
+            {
+                "label": "Maria Moors Cabot Prizes",
+                "id": "Q2113"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "Yes",
+        "sup_questions": [
+            "When did Larry Rohter receive Maria Moors Cabot Prizes the first time?",
+            "When did Larry Rohter receive Maria Moors Cabot Prizes the last time?"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1998",
+                "label": "1998"
+            },
+            {
+                "id": "1998",
+                "label": "1998"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_5_ua_en_icl",
+        "question": "Where was Bill Gates educated between 1950 and 1955?",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "No",
+        "sup_questions": [
+            "When did Bill Gates start educating at Lakeside School the first time?",
+            "When did Bill Gates stop educating at Harvard College the last time?"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1968",
+                "label": "1968"
+            },
+            {
+                "id": "1975",
+                "label": "1975"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_5_ab_en_icl",
+        "question": "Where was Bill Gates educated between 1968 and 1973?",
+        "answer": [
+            {
+                "label": "Lakeside School",
+                "id": "Q7879362"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "Yes",
+        "sup_questions": [
+            "When did Bill Gates start educating at Lakeside School the first time?",
+            "When did Bill Gates stop educating at Harvard College the last time?"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1968",
+                "label": "1968"
+            },
+            {
+                "id": "1975",
+                "label": "1975"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_6_ua_en_icl",
+        "question": "Who was the chair of Cabinet of Joe Biden between 1937 and 1942?",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "No",
+        "sup_questions": [
+            "When did Joe Biden become the chairperson of Cabinet of Joe Biden the first time?",
+            "When did None cease the chairperson of Cabinet of Joe Biden the last time?"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "2021",
+                "label": "2021"
+            },
+            {
+                "id": "-1",
+                "label": "-1"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_6_ab_en_icl",
+        "question": "Who was the chair of Cabinet of Joe Biden between 2021 and 2024?",
+        "answer": [
+            {
+                "label": "Joe Biden",
+                "id": "Q6279"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "Yes",
+        "sup_questions": [
+            "When did Joe Biden become the chairperson of Cabinet of Joe Biden the first time?",
+            "When did None cease the chairperson of Cabinet of Joe Biden the last time?"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "2021",
+                "label": "2021"
+            },
+            {
+                "id": "-1",
+                "label": "-1"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_7_ua_en_icl",
+        "question": "Who was the unmarried partner of Elon Musk during 1966?",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "No",
+        "sup_questions": [
+            "When did Elon Musk's unmarried partner start the first time?",
+            "When did Elon Musk stop the unmarried partner the last time?"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "2016",
+                "label": "2016"
+            },
+            {
+                "id": "2021",
+                "label": "2021"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_7_ab_en_icl",
+        "question": "Who was the unmarried partner of Elon Musk during 2016?",
+        "answer": [
+            {
+                "label": "Amber Heard",
+                "id": "Q229166"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "Yes",
+        "sup_questions": [
+            "When did Elon Musk's unmarried partner start the first time?",
+            "When did Elon Musk stop the unmarried partner the last time?"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "2016",
+                "label": "2016"
+            },
+            {
+                "id": "2021",
+                "label": "2021"
+            }
+        ],
+        "flag": "False"
+    }
+]

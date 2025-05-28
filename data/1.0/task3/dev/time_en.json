@@ -1,0 +1,110 @@
+[
+    {
+        "qid": "time_0_ua_en_icl",
+        "question": "Which position did Jean Montalat hold from 1907 to 1912?",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "No",
+        "sup_questions": [
+            "When did Jean Montalat start holding member of the French National Assembly the first time?",
+            "When did Jean Montalat stop holding member of the French National Assembly the last time?"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1951",
+                "label": "1951"
+            },
+            {
+                "id": "1971",
+                "label": "1971"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_0_ab_en_icl",
+        "question": "Which position did Jean Montalat hold between 1951 and 1956?",
+        "answer": [
+            {
+                "label": "member of the French National Assembly",
+                "id": "Q3044918"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "Yes",
+        "sup_questions": [
+            "When did Jean Montalat start holding member of the French National Assembly the first time?",
+            "When did Jean Montalat stop holding member of the French National Assembly the last time?"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1951",
+                "label": "1951"
+            },
+            {
+                "id": "1971",
+                "label": "1971"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_1_ua_en_icl",
+        "question": "Who was the spouse of Yao Ming from 1975 to 1980?",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "No",
+        "sup_questions": [
+            "When did Yao Ming marry Ye Li the first time?",
+            "When did Yao Ming divorce with None the last time"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "2007",
+                "label": "2007"
+            },
+            {
+                "id": "-1",
+                "label": "-1"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_1_ab_en_icl",
+        "question": "Who was the spouse of Yao Ming from 2007 to 2024?",
+        "answer": [
+            {
+                "label": "Ye Li",
+                "id": "Q986169"
+            }
+        ],
+        "lan": "en",
+        "cls_target": "Yes",
+        "sup_questions": [
+            "When did Yao Ming marry Ye Li the first time?",
+            "When did Yao Ming divorce with None the last time"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "2007",
+                "label": "2007"
+            },
+            {
+                "id": "-1",
+                "label": "-1"
+            }
+        ],
+        "flag": "False"
+    }
+]

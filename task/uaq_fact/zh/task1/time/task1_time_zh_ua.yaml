@@ -1,0 +1,8 @@
+"dataset_kwargs":
+  "data_files":
+    "test": "data/1.0/task1/timeqa_ua_zh_v2.json"
+    "validation": "data/1.0/task1/dev/time_zh_dev.json"
+"description": "在1句话以内回答给定问题。确保你的答案简短并简洁。如果你认为不存在合适答案，返回##None##。\n\n"
+"doc_to_text": "问题: {{question}}\n答案:"
+"include": "_arr_generate_until_template_base_yaml"
+"task": "task1_time_zh_ua"

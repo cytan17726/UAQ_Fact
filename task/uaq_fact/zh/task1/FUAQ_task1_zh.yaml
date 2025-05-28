@@ -1,0 +1,34 @@
+group: FUAQ_task1_zh
+task:
+  - group: FUAQ_task1_zh_UAQ
+    task:
+      - task1_dilemma_zh_ua
+      - task1_inter_zh_ua
+      - task1_time_zh_ua
+    num_fewshot: 4
+    fewshot_config:
+      sampler: first_n
+    aggregate_metric_list:
+      # - metric: EM_hit #exact_match
+      #   aggregation: mean
+      #   weight_by_size: true
+      - metric: NEC_refuse
+        aggregation: mean
+        weight_by_size: true
+  - group: FUAQ_task1_zh_ABQ
+    task:
+      - task1_dilemma_zh_ab
+      - task1_inter_zh_ab
+      - task1_time_zh_ab
+    num_fewshot: 4
+    fewshot_config:
+      sampler: first_n
+    aggregate_metric_list:
+      - metric: EM_hit #exact_match
+        aggregation: mean
+        weight_by_size: true
+      - metric: NEC_refuse
+        aggregation: mean
+        weight_by_size: true
+metadata:
+  version: 1

@@ -1,0 +1,62 @@
+[
+  {
+    "qid": "inter_ab_1",
+    "question": "Who is the translator of Une Vie D'amour and also the mother of Andrei Konchalovsky?",
+    "answer": [
+      {
+        "label": "Natalia Konchalovskaïa",
+        "id": "Q4231926"
+      }
+    ]
+  },
+  {
+    "qid": "dilemma_ua_5",
+    "question": "who is the organizer of 2008 IAAF World Indoor Championships, Linde Lindström or Pius VIII ?",
+    "answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ]
+  },
+  {
+    "qid": "inter_ua_1",
+    "question": "Who is the translator of Bhagavad Gita and also the mother of Tim Berners-Lee?",
+    "answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ]
+  },
+  {
+    "qid": "time_0_ua_en_icl",
+    "question": "Which position did Jean Montalat hold from 1907 to 1912?",
+    "answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ]
+  },
+  {
+    "qid": "dilemma_ab_6",
+    "question": "what noble titles does Charles Mumbere hold, king or Baron Jeffreys ?",
+    "answer": [
+      {
+        "id": "Q12097",
+        "label": "king"
+      }
+    ]
+  },
+  {
+    "qid": "time_0_ab_en_icl",
+    "question": "Which position did Jean Montalat hold between 1951 and 1956?",
+    "answer": [
+      {
+        "label": "member of the French National Assembly",
+        "id": "Q3044918"
+      }
+    ]
+  }
+]

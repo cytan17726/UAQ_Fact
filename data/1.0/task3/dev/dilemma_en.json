@@ -1,0 +1,78 @@
+[
+  {
+    "qid": "dilemma_ua_6",
+    "question": "what noble titles does Charles Mumbere hold, Baron Jeffreys or Marquess of Hertford ?",
+    "answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "lan": "en",
+    "cls_target": "No",
+    "sup_questions": "what noble titles does Charles Mumbere hold ?",
+    "sup_que_ans": [
+      {
+        "id": "Q12097",
+        "label": "king"
+      }
+    ]
+  },
+  {
+    "qid": "dilemma_ab_6",
+    "question": "what noble titles does Charles Mumbere hold, king or Baron Jeffreys ?",
+    "answer": [
+      {
+        "id": "Q12097",
+        "label": "king"
+      }
+    ],
+    "lan": "en",
+    "cls_target": "Yes",
+    "sup_questions": "what noble titles does Charles Mumbere hold ?",
+    "sup_que_ans": [
+      {
+        "id": "Q12097",
+        "label": "king"
+      }
+    ]
+  },
+  {
+    "qid": "dilemma_ua_5",
+    "question": "who is the organizer of 2008 IAAF World Indoor Championships, Linde Lindström or Pius VIII ?",
+    "answer": [
+      {
+        "label": "None",
+        "id": "None"
+      }
+    ],
+    "lan": "en",
+    "cls_target": "No",
+    "sup_questions": "who is the organizer of 2008 IAAF World Indoor Championships ?",
+    "sup_que_ans": [
+      {
+        "id": "Q1158",
+        "label": "World Athletics"
+      }
+    ]
+  },
+    {
+      "qid": "dilemma_ab_5",
+      "question": "who is the organizer of 2008 IAAF World Indoor Championships, World Athletics or Pius VIII ?",
+      "answer": [
+        {
+          "id": "Q1158",
+          "label": "World Athletics"
+        }
+      ],
+      "lan": "en",
+      "cls_target": "Yes",
+      "sup_questions": "who is the organizer of 2008 IAAF World Indoor Championships ?",
+      "sup_que_ans": [
+        {
+          "id": "Q1158",
+          "label": "World Athletics"
+        }
+      ]
+    }
+]

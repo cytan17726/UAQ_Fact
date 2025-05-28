@@ -1,0 +1,434 @@
+[
+    {
+        "qid": "time_0_ua_zh_icl",
+        "question": "1907年至1912年期间,让·蒙塔拉在哪里担任职务?",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "zh",
+        "cls_target": "否",
+        "sup_questions": [
+            "让·蒙塔拉第一次担任法国国民议会议员的开始时间？",
+            "让·蒙塔拉最后一次离职法国国民议会议员的结束时间？"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1951",
+                "label": "1951"
+            },
+            {
+                "id": "1971",
+                "label": "1971"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_0_ab_zh_icl",
+        "question": "1951年至1956年期间,让·蒙塔拉在哪里担任职务?",
+        "answer": [
+            {
+                "label": "法国国民议会议员",
+                "id": "Q3044918"
+            }
+        ],
+        "lan": "zh",
+        "cls_target": "是",
+        "sup_questions": [
+            "让·蒙塔拉第一次担任法国国民议会议员的开始时间？",
+            "让·蒙塔拉最后一次离职法国国民议会议员的结束时间？"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1951",
+                "label": "1951"
+            },
+            {
+                "id": "1971",
+                "label": "1971"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_1_ua_zh_icl",
+        "question": "1975年到1980年期间,姚明的配偶是谁?",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "zh",
+        "cls_target": "否",
+        "sup_questions": [
+            "姚明第一次和叶莉结婚时间？",
+            "姚明最后一次和None离婚时间"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "2007",
+                "label": "2007"
+            },
+            {
+                "id": "-1",
+                "label": "-1"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_1_ab_zh_icl",
+        "question": "2007年至2024年期间,姚明的配偶是谁?",
+        "answer": [
+            {
+                "label": "叶莉",
+                "id": "Q986169"
+            }
+        ],
+        "lan": "zh",
+        "cls_target": "是",
+        "sup_questions": [
+            "姚明第一次和叶莉结婚时间？",
+            "姚明最后一次和None离婚时间"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "2007",
+                "label": "2007"
+            },
+            {
+                "id": "-1",
+                "label": "-1"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_2_ua_zh_icl",
+        "question": "阿尔伯特·爱因斯坦在1874年时的国籍是什么？",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "zh",
+        "cls_target": "否",
+        "sup_questions": [
+            "阿尔伯特·爱因斯坦第一次持有国家国籍德意志帝国的时间？",
+            "阿尔伯特·爱因斯坦最后一次放弃国家国籍美国的结束时间？"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1879",
+                "label": "1879"
+            },
+            {
+                "id": "1940",
+                "label": "1940"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_2_ab_zh_icl",
+        "question": "阿尔伯特·爱因斯坦在1971年时的国籍是什么？",
+        "answer": [
+            {
+                "label": "德意志帝国",
+                "id": "Q43287"
+            }
+        ],
+        "lan": "zh",
+        "cls_target": "是",
+        "sup_questions": [
+            "阿尔伯特·爱因斯坦第一次持有国家国籍德意志帝国的时间？",
+            "阿尔伯特·爱因斯坦最后一次放弃国家国籍美国的结束时间？"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1879",
+                "label": "1879"
+            },
+            {
+                "id": "1940",
+                "label": "1940"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_3_ua_zh_icl",
+        "question": "1965年时，科比·布莱恩特是那个球队的成员?",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "zh",
+        "cls_target": "否",
+        "sup_questions": [
+            "科比·布莱恩特第一次为洛杉矶湖人效力的开始时间？",
+            "科比·布莱恩特最后一次为洛杉矶湖人效力的结束时间？"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1996",
+                "label": "1996"
+            },
+            {
+                "id": "2016",
+                "label": "2016"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_3_ab_zh_icl",
+        "question": "1996年时，科比·布莱恩特是那个球队的成员?",
+        "answer": [
+            {
+                "label": "洛杉矶湖人",
+                "id": "Q121783"
+            }
+        ],
+        "lan": "zh",
+        "cls_target": "是",
+        "sup_questions": [
+            "科比·布莱恩特第一次为洛杉矶湖人效力的开始时间？",
+            "科比·布莱恩特最后一次为洛杉矶湖人效力的结束时间？"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1996",
+                "label": "1996"
+            },
+            {
+                "id": "2016",
+                "label": "2016"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_4_ua_zh_icl",
+        "question": "1945年时，拉里·罗特获得了什么荣誉？",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "zh",
+        "cls_target": "否",
+        "sup_questions": [
+            "拉里·罗特第一次获得玛丽亚摩斯卡波新闻奖的时间？",
+            "拉里·罗特最后一次获得玛丽亚摩斯卡波新闻奖时间？"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1998",
+                "label": "1998"
+            },
+            {
+                "id": "1998",
+                "label": "1998"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_4_ab_zh_icl",
+        "question": "1998年时，拉里·罗特获得了什么荣誉？",
+        "answer": [
+            {
+                "label": "玛丽亚摩斯卡波新闻奖",
+                "id": "Q2113"
+            }
+        ],
+        "lan": "zh",
+        "cls_target": "是",
+        "sup_questions": [
+            "拉里·罗特第一次获得玛丽亚摩斯卡波新闻奖的时间？",
+            "拉里·罗特最后一次获得玛丽亚摩斯卡波新闻奖时间？"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1998",
+                "label": "1998"
+            },
+            {
+                "id": "1998",
+                "label": "1998"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_5_ua_zh_icl",
+        "question": "1950年到1955年期间，比尔·盖茨就读于哪里？",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "zh",
+        "cls_target": "否",
+        "sup_questions": [
+            "比尔·盖茨第一次在湖滨中学接受教育时间？",
+            "比尔·盖茨最后一次在哈佛学院毕业时间？"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1968",
+                "label": "1968"
+            },
+            {
+                "id": "1975",
+                "label": "1975"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_5_ab_zh_icl",
+        "question": "1968年到1973年期间，比尔·盖茨就读于哪里？",
+        "answer": [
+            {
+                "label": "湖滨中学",
+                "id": "Q7879362"
+            }
+        ],
+        "lan": "zh",
+        "cls_target": "是",
+        "sup_questions": [
+            "比尔·盖茨第一次在湖滨中学接受教育时间？",
+            "比尔·盖茨最后一次在哈佛学院毕业时间？"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "1968",
+                "label": "1968"
+            },
+            {
+                "id": "1975",
+                "label": "1975"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_6_ua_zh_icl",
+        "question": "1937年至1942年期间，谁是乔·拜登内阁的领导者？",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "zh",
+        "cls_target": "否",
+        "sup_questions": [
+            "乔·拜登第一次担任乔·拜登内阁的主席的开始时间？",
+            "None最后一次卸任乔·拜登内阁的主席的结束时间？"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "2021",
+                "label": "2021"
+            },
+            {
+                "id": "-1",
+                "label": "-1"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_6_ab_zh_icl",
+        "question": "2021年至2024年期间，谁是乔·拜登内阁的领导者？",
+        "answer": [
+            {
+                "label": "乔·拜登",
+                "id": "Q6279"
+            }
+        ],
+        "lan": "zh",
+        "cls_target": "是",
+        "sup_questions": [
+            "乔·拜登第一次担任乔·拜登内阁的主席的开始时间？",
+            "None最后一次卸任乔·拜登内阁的主席的结束时间？"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "2021",
+                "label": "2021"
+            },
+            {
+                "id": "-1",
+                "label": "-1"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_7_ua_zh_icl",
+        "question": "1966年时，谁是伊隆·马斯克的非婚伴侣？",
+        "answer": [
+            {
+                "label": "None",
+                "id": "None"
+            }
+        ],
+        "lan": "zh",
+        "cls_target": "否",
+        "sup_questions": [
+            "伊隆·马斯克的未婚伴侣安柏·赫德的第一次开始时间？",
+            "伊隆·马斯克的非婚伴侣希文·齐利斯最后一次结束时间？"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "2016",
+                "label": "2016"
+            },
+            {
+                "id": "2021",
+                "label": "2021"
+            }
+        ],
+        "flag": "False"
+    },
+    {
+        "qid": "time_7_ab_zh_icl",
+        "question": "2016年时，谁是伊隆·马斯克的非婚伴侣？",
+        "answer": [
+            {
+                "label": "安柏·赫德",
+                "id": "Q229166"
+            }
+        ],
+        "lan": "zh",
+        "cls_target": "是",
+        "sup_questions": [
+            "伊隆·马斯克的未婚伴侣安柏·赫德的第一次开始时间？",
+            "伊隆·马斯克的非婚伴侣希文·齐利斯最后一次结束时间？"
+        ],
+        "sup_que_ans": [
+            {
+                "id": "2016",
+                "label": "2016"
+            },
+            {
+                "id": "2021",
+                "label": "2021"
+            }
+        ],
+        "flag": "False"
+    }
+]
