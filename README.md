@@ -5,9 +5,10 @@
 
 Data and code for datset UAQFact.
 
+
 ## Requirements
 
-Ensure compatibility with `lm-evaluation-harness` v0.4.3. Our experiments are conducted in the following environment:
+Ensure compatibility with `lm-evaluation-harness` v0.4.3. Our experiments are conducted in the following environment on Tesla V100-SXM2-32GB:
 - lm-evaluation-harness 0.4.3
 - PyTorch 2.3.1
 - Transformers 4.46.3
@@ -16,6 +17,7 @@ Ensure compatibility with `lm-evaluation-harness` v0.4.3. Our experiments are co
 Note: local environment differences (such as operating system version, GPU type) may lead to slight variations in evaluation results. Please refer to your local results for specifics.
 
 ## Setup
+
 ```
 git clone https://github.com/cytan17726/UAQ_Fact.git
 
@@ -23,8 +25,14 @@ cd lm-evaluation-harness
 pip install -e .
 ```
 
+
 ## Evaluate Instructions
-Refer to `eval_example_llama.sh` for an example evaluation of Meta-Llama-3-8B-Instruct. `NEC_refuse` represents the Refusal Rate, and `EM_hit` represents Accuracy.
+
+Please note that you can use any method you prefer for evaluation.
+
+For our evaluation method, please refer to `eval_example_llama.sh` for an example evaluation of Meta-Llama-3-8B-Instruct. `NEC_refuse` represents the Refusal Rate, and `EM_hit` represents Accuracy.
+
+You can calculate knowledge pass rate (KPR) using `parse_task2_res.py`.
 
 
 ## Directory Structure
@@ -39,6 +47,7 @@ Refer to `eval_example_llama.sh` for an example evaluation of Meta-Llama-3-8B-In
 ## License
 
 This project is licensed under the Apache-2.0 license.
+
 
 ## Citation
 To add.
