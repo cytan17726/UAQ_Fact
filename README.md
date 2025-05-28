@@ -17,7 +17,7 @@ Note: local environment differences (such as operating system version, GPU type)
 
 ## Installation Guide
 ```
-git clone <repository-url>
+git clone https://github.com/cytan17726/UAQ_Fact.git
 
 cd lm-evaluation-harness
 pip install -e .
