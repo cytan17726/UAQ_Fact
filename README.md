@@ -3,7 +3,7 @@
 
 ## Overview
 
-Data and code for datset UAQFact.
+Data and code for datset UAQFact. The relevant paper is accepted by ACL 2025 Findings: [[ArXiv]](https://arxiv.org/pdf/2505.23461).
 
 
 ## Requirements
@@ -52,4 +52,14 @@ This project is licensed under the Apache-2.0 license.
 
 
 ## Citation
-To add.
+```
+@misc{tan2025uaqfact,
+      title={UAQFact: Evaluating Factual Knowledge Utilization of LLMs on Unanswerable Questions}, 
+      author={Chuanyuan Tan and Wenbiao Shao and Hao Xiong and Tong Zhu and Zhenhua Liu and Kai Shi and Wenliang Chen},
+      year={2025},
+      eprint={2505.23461},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.23461}, 
+}
+```
