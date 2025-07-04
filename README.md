@@ -40,6 +40,7 @@ You can calculate knowledge pass rate (KPR) using `parse_task2_res.py`.
 - `data`
   - `1.0`: Format used in our paper evaluations
   - `2.0`: Format after merging different question types
+  - `one_eval`: Data used in OneEval, support Task 1.
 - `lm-evaluation-harness`: Version 0.4.3 from [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness), with some evaluation metrics defined in `lm_eval/api/metrics.py` (`NEC_refuse` and `EM_hit`)
 - `task`: Evaluation parameters defined according to `lm-evaluation-harness`
 - `eval_example_llama.sh`: Example evaluation script using Meta-Llama-3-8B-Instruct

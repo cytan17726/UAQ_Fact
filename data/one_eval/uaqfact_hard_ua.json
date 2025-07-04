@@ -1,0 +1,152 @@
+[
+    {
+        "qid": "time_1301_ua_en",
+        "question": "Which subsidiary did Infineon Technologies have from 2006 to 2007?",
+        "QType": "time",
+        "reference": "Infineon Technologies -> German Lobbyregister ID -> R001801\nInfineon Technologies -> Commons category -> Infineon\nInfineon Technologies -> VIAF cluster ID -> 158014219\nInfineon Technologies -> image -> Campeon%20Neubiberg.jpg\nInfineon Technologies -> country -> Germany"
+    },
+    {
+        "qid": "dilemma_ua_en_1685",
+        "question": "Which item has the same boundary as Ōu, Omote Nihon, or North Tohoku region?",
+        "QType": "dilemma",
+        "reference": "Ōu -> instance of -> region of Japan\nŌu -> country -> Japan\nŌu -> coextensive with -> Tōhoku region\nŌu -> has part(s) -> Dewa Province, Mutsu Province\nŌu -> name in kana -> おうう"
+    },
+    {
+        "qid": "inter_ua_1023",
+        "question": "Who served as the head of state for the Government of the 3rd Scottish Parliament and is also the employer of Adeline Smith?",
+        "QType": "inter",
+        "reference": "Government of the 3rd Scottish Parliament -> has cause -> 2007 Scottish Parliament general election\nGovernment of the 3rd Scottish Parliament -> applies to jurisdiction -> Scotland\nGovernment of the 3rd Scottish Parliament -> dissolved, abolished or demolished date -> 2011-05-19T00:00:00Z\nGovernment of the 3rd Scottish Parliament -> followed by -> Second Salmond ministry\nGovernment of the 3rd Scottish Parliament -> inception -> 2007-05-17T00:00:00Z"
+    },
+    {
+        "qid": "dilemma_ua_en_1707",
+        "question": "Which organization has a partnership with United Cities and Local Governments, \"Secular Student Alliance\" or \"Institut Congolais pour la Conservation de la Nature\"?",
+        "QType": "dilemma",
+        "reference": "United Cities and Local Governments -> logo image -> UCLG%20logo.png\nUnited Cities and Local Governments -> has part(s) -> Committee on Social Inclusion, Participative Democracy and Human Rights, UCLG World Council, UCLG General Assembly, UCLG Executive Bureau, UCLG Secretary-General, UCLG Presidency, UCLG Sections, UCLG — Latin America\nUnited Cities and Local Governments -> VIAF cluster ID -> 167631234\nUnited Cities and Local Governments -> headquarters location -> Barcelona\nUnited Cities and Local Governments -> IdRef ID -> 131179977"
+    },
+    {
+        "qid": "dilemma_ua_en_908",
+        "question": "What items are part of Up Idol, \"Jonas\" or \"Summer Scent\"?",
+        "QType": "dilemma",
+        "reference": "Up Idol -> number of seasons -> 3\nUp Idol -> camera setup -> multiple-camera setup\nUp Idol -> language of work or name -> Standard Chinese\nUp Idol -> publication date -> 2015-01-01T00:00:00Z\nUp Idol -> followed by -> Up Idol"
+    },
+    {
+        "qid": "inter_ua_1141",
+        "question": "Who is the offspring of Olivier Séchan who also designed Chandigarh?",
+        "QType": "inter",
+        "reference": "Olivier Séchan -> place of birth -> Montpellier\nOlivier Séchan -> IdRef ID -> 027130029\nOlivier Séchan -> award received -> Prix des Deux Magots, Prix Cazes\nOlivier Séchan -> Bibliothèque nationale de France ID -> 119242641\nOlivier Séchan -> spouse -> Solange Mériaux/Séchan"
+    },
+    {
+        "qid": "dilemma_ua_en_395",
+        "question": "Who holds the position of rector at Université catholique de Louvain, Ezio Auditore da Firenze or Naga the Serpent?",
+        "QType": "dilemma",
+        "reference": "Université catholique de Louvain -> main subject -> lifestance organisation\nUniversité catholique de Louvain -> rector -> Françoise Smets\nUniversité catholique de Louvain -> country -> Belgium\nUniversité catholique de Louvain -> Freebase ID -> /m/023klv\nUniversité catholique de Louvain -> Bibliothèque nationale de France ID -> 11868000v"
+    },
+    {
+        "qid": "inter_ua_736",
+        "question": "Who is Katarzyna Tusk's father and a cast member in The 11th Hour?",
+        "QType": "inter",
+        "reference": "Katarzyna Tusk -> country of citizenship -> Poland\nKatarzyna Tusk -> family name -> Tusk\nKatarzyna Tusk -> married name -> Katarzyna Tusk-Cudna\nKatarzyna Tusk -> NUKAT ID -> n2015227279\nKatarzyna Tusk -> WorldCat Entities ID -> E39PBJrmb47JjTDwRWvXjc7mBP"
+    },
+    {
+        "qid": "inter_ua_1221",
+        "question": "Who authored The Demon-Haunted World and directed The Prince of Tides?",
+        "QType": "inter",
+        "reference": "The Demon-Haunted World -> publication date -> 1995-01-01T00:00:00Z\nThe Demon-Haunted World -> genre -> popular science literature, essay\nThe Demon-Haunted World -> Open Library ID -> OL2950942W\nThe Demon-Haunted World -> Penguin Random House work ID -> 159731\nThe Demon-Haunted World -> LibraryThing work ID -> 5977"
+    },
+    {
+        "qid": "dilemma_ua_en_2329",
+        "question": "In which location was Erasure formed, Anglosphere or Borinage?",
+        "QType": "dilemma",
+        "reference": "Erasure -> record label -> Mute Records\nErasure -> logo image -> Erasure%20logo.webp\nErasure -> Libraries Australia ID -> 35062898\nErasure -> Commons category -> Erasure\nErasure -> genre -> new wave, synth-pop"
+    },
+    {
+        "qid": "time_563_ua_en",
+        "question": "In 1932, what was the military rank held by Vladimir Arsenyev?",
+        "QType": "time",
+        "reference": "Vladimir Arsenyev -> instance of -> human\nVladimir Arsenyev -> image -> VK%20Arsenyev.jpg\nVladimir Arsenyev -> signature -> Arsenyev%20signature.png\nVladimir Arsenyev -> country of citizenship -> Russian Republic, Soviet Union, Russian Empire\nVladimir Arsenyev -> IMDb ID -> nm0037539"
+    },
+    {
+        "qid": "time_1220_ua_en",
+        "question": "Who was in command of the Mediterranean Division in the year 1916?",
+        "QType": "time",
+        "reference": "Mediterranean Division -> GND ID -> 4222811-6\nMediterranean Division -> part of -> Imperial German Navy\nMediterranean Division -> military branch -> Imperial German Navy, Ottoman Navy\nMediterranean Division -> Freebase ID -> /m/0bs3dff\nMediterranean Division -> VIAF cluster ID -> 233763755"
+    },
+    {
+        "qid": "inter_ua_1397",
+        "question": "Who directed Boccaccio '70 and is also part of the cast in Modern Times?",
+        "QType": "inter",
+        "reference": "Boccaccio '70 -> has part(s) -> Renzo and Luciana, The Temptation of Dr Antonio, The Job, The Raffle\nBoccaccio '70 -> producer -> Tonino Cervi, Carlo Ponti\nBoccaccio '70 -> instance of -> film\nBoccaccio '70 -> screenwriter -> Italo Calvino, Ennio Flaiano, Suso Cecchi d'Amico, Cesare Zavattini, Tullio Pinelli, Giovanni Arpino, Brunello Rondi, Goffredo Parise, Federico Fellini, Luchino Visconti\nBoccaccio '70 -> IMDb ID -> tt0055805"
+    },
+    {
+        "qid": "dilemma_ua_en_935",
+        "question": "Which Y-DNA haplogroup is associated with the Piast dynasty, is it \"Haplogroup Q-M242\" or \"Haplogroup R-M207\"?",
+        "QType": "dilemma",
+        "reference": "Piast dynasty -> NE.se ID -> piast\nPiast dynasty -> Fandom article ID -> cs.historika:Piastovci\nPiast dynasty -> NL CR AUT ID -> jx20060403069\nPiast dynasty -> Treccani ID -> piasti\nPiast dynasty -> FAST ID -> 1754304"
+    },
+    {
+        "qid": "time_1022_ua_en",
+        "question": "wikidata没有这个信息",
+        "QType": "time",
+        "reference": "Stadio delle Alpi -> Structurae structure ID -> 20019314\nStadio delle Alpi -> instance of -> defunct sports venue\nStadio delle Alpi -> postal code -> 10151\nStadio delle Alpi -> inception -> 1988-01-01T00:00:00Z\nStadio delle Alpi -> surface played on -> lawn"
+    },
+    {
+        "qid": "inter_ua_192",
+        "question": "Who serves as both the head of government for Birkenheide and the editor of La arto labori kune: festlibro por Humphrey Tonkin?",
+        "QType": "inter",
+        "reference": "Birkenheide -> area -> 2.93\nBirkenheide -> topic's main category -> Category:Birkenheide\nBirkenheide -> MusicBrainz area ID -> 6df0231f-bed0-4f06-a80f-c792e993e553\nBirkenheide -> located in time zone -> UTC+01:00, UTC+02:00\nBirkenheide -> GeoNames ID -> 6555234"
+    },
+    {
+        "qid": "time_1794_ua_en",
+        "question": "Which record label did MC Solaar belong to between the years 1977 and 1984?",
+        "QType": "time",
+        "reference": "MC Solaar -> MusicBrainz artist ID -> bbbd2644-b4cb-4bb5-a442-315310f68a0b\nMC Solaar -> IdRef ID -> 079375901\nMC Solaar -> Commons category -> MC Solaar\nMC Solaar -> instance of -> human\nMC Solaar -> IMDb ID -> nm1046837"
+    },
+    {
+        "qid": "dilemma_ua_en_3117",
+        "question": "Who serves as the head of government in Nicaragua, Juan Bautista Gill or Roxana Scarlat?",
+        "QType": "dilemma",
+        "reference": "Nicaragua -> country -> Nicaragua\nNicaragua -> ISO 3166-1 alpha-3 code -> NIC\nNicaragua -> anthem -> Salve a ti\nNicaragua -> IdRef ID -> 026589842\nNicaragua -> named after -> Nicarao"
+    },
+    {
+        "qid": "time_1537_ua_en",
+        "question": "In which league was Juventus FC competing from 1918 to 1920?",
+        "QType": "time",
+        "reference": "Juventus FC -> named after -> Iuventas\nJuventus FC -> award received -> The UEFA Plaque, Gold Collar for Sports Merit, gold star for sports merit\nJuventus FC -> Library of Congress authority ID -> n79058447\nJuventus FC -> inception -> 1897-11-01T00:00:00Z\nJuventus FC -> VIAF cluster ID -> 241856258"
+    },
+    {
+        "qid": "dilemma_ua_en_282",
+        "question": "Which type of GPU is utilized in the Xbox Series S, ATI Wonder series or ATI Mach?",
+        "QType": "dilemma",
+        "reference": "Xbox Series S -> title -> Xbox Series S\nXbox Series S -> CPU -> Zen 2\nXbox Series S -> price -> 249, 299, 3299, 113999\nXbox Series S -> part of -> ninth generation of video game consoles, Xbox Series X and Series S\nXbox Series S -> start time -> 2020-01-01T00:00:00Z"
+    },
+    {
+        "qid": "inter_ua_24",
+        "question": "Who served as one of the heads of government in Berlusconi IV Cabinet and is also the mother of Benigno Aquino III?",
+        "QType": "inter",
+        "reference": "Berlusconi IV Cabinet -> Commons category -> Berlusconi IV Cabinet\nBerlusconi IV Cabinet -> country -> Italy\nBerlusconi IV Cabinet -> dissolved, abolished or demolished date -> 2011-11-16T00:00:00Z\nBerlusconi IV Cabinet -> image -> Governo%20Berlusconi%20IV.jpg\nBerlusconi IV Cabinet -> Italian Chamber of Deputies government ID -> 61"
+    },
+    {
+        "qid": "inter_ua_705",
+        "question": "Who is the parent of Louis Lully and the individual credited with establishing the Catholic Church?",
+        "QType": "inter",
+        "reference": "Louis Lully -> related image -> Bapt%C3%AAme%20Louis%20Lully%20Fontainebleau%209%20septembre%201677.jpg\nLouis Lully -> Grove Music Online ID -> 6002278221\nLouis Lully -> Freebase ID -> /m/05zz1x3\nLouis Lully -> openMLOL author ID -> 120562, 430052\nLouis Lully -> instance of -> human"
+    },
+    {
+        "qid": "inter_ua_162",
+        "question": "Who is the individual that served as the head of government for the First Hatta Cabinet and also composed Ascanio in Alba?",
+        "QType": "inter",
+        "reference": "First Hatta Cabinet -> Freebase ID -> /m/05p8m5l\nFirst Hatta Cabinet -> replaces -> Second Amir Sjarifuddin Cabinet\nFirst Hatta Cabinet -> instance of -> Cabinet of Indonesia\nFirst Hatta Cabinet -> head of government -> Mohammad Hatta\nFirst Hatta Cabinet -> applies to jurisdiction -> Indonesia"
+    },
+    {
+        "qid": "time_163_ua_en",
+        "question": "Who was the owner of Saint George from 1846 until 1850?",
+        "QType": "time",
+        "reference": "Saint George -> copyright status -> public domain\nSaint George -> image -> Accademia%20-%20San%20Giorgio%20di%20Andrea%20Mantegna%20Cat.588.jpg\nSaint George -> WGA work ID -> m/mantegna/1/s_george, m/mantegna/06/4sgeorge\nSaint George -> main subject -> Saint George and the Dragon\nSaint George -> Commons category -> Saint George and the dragon by Andrea Mantegna (Gallerie dell'Accademia, Venice)"
+    },
+    {
+        "qid": "dilemma_ua_en_447",
+        "question": "What is the child astronomical body associated with HD 128311, specifically \"Ludi Tance-4 01A\" or \"Gliese 809\"?",
+        "QType": "dilemma",
+        "reference": "HD 128311 -> child astronomical body -> HD 128311 b, HD 128311 c\nHD 128311 -> constellation -> Boötes\nHD 128311 -> apparent magnitude -> 7.446\nHD 128311 -> luminosity -> 0.30789644\nHD 128311 -> part of -> Ursa Major Moving Group"
+    }
+]

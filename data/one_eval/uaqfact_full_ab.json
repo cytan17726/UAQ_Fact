@@ -1,0 +1,602 @@
+[
+    {
+        "qid": "dilemma_ab_en_413",
+        "question": "What open data portals offer more information regarding Hong Kong, specifically \"data.gov.hk\" or \"Natural Product Atlas\"?",
+        "QType": "dilemma",
+        "reference": "Hong Kong -> head of government -> John Lee\nHong Kong -> continent -> Asia\nHong Kong -> seal image -> Regional%20Emblem%20of%20Hong%20Kong.svg\nHong Kong -> logo image -> Hong%20Kong%20in%20Chinese%202.svg\nHong Kong -> coat of arms image -> Regional%20Emblem%20of%20Hong%20Kong.svg"
+    },
+    {
+        "qid": "time_1301_ab_en",
+        "question": "Which subsidiary did Infineon Technologies have from 2020 to 2021?",
+        "QType": "time",
+        "reference": "Infineon Technologies -> German Lobbyregister ID -> R001801\nInfineon Technologies -> Commons category -> Infineon\nInfineon Technologies -> VIAF cluster ID -> 158014219\nInfineon Technologies -> image -> Campeon%20Neubiberg.jpg\nInfineon Technologies -> country -> Germany"
+    },
+    {
+        "qid": "time_928_ab_en",
+        "question": "Which team did Giuseppe Meazza coach during the years 1955 to 1956?",
+        "QType": "time",
+        "reference": "Giuseppe Meazza -> IMDb ID -> nm2156513\nGiuseppe Meazza -> SBN author ID -> DDSV230275\nGiuseppe Meazza -> occupation -> association football manager, association football player\nGiuseppe Meazza -> date of death -> 1979-08-21T00:00:00Z\nGiuseppe Meazza -> given name -> Giuseppe"
+    },
+    {
+        "qid": "dilemma_ab_en_2584",
+        "question": "Who provides the narration in the film 300, Lance Armstrong or David Wenham?",
+        "QType": "dilemma",
+        "reference": "300 -> review score -> 6.1/10, 52/100, 61%\n300 -> distribution format -> video on demand\n300 -> genre -> drama film, action film, war film, classical antiquity film, epic film, sword-and-sandal film\n300 -> Commons category -> 300 (film)\n300 -> based on -> 300"
+    },
+    {
+        "qid": "dilemma_ab_en_1685",
+        "question": "Which item has the same boundary as Ōu, Tōhoku region or Omote Nihon?",
+        "QType": "dilemma",
+        "reference": "Ōu -> instance of -> region of Japan\nŌu -> country -> Japan\nŌu -> coextensive with -> Tōhoku region\nŌu -> has part(s) -> Dewa Province, Mutsu Province\nŌu -> name in kana -> おうう"
+    },
+    {
+        "qid": "inter_ab_1023",
+        "question": "Who served as the leader of Nazi Germany and is also known for writing Mein Kampf?",
+        "QType": "inter",
+        "reference": "Nazi Germany -> head of state -> Karl Dönitz, Adolf Hitler, Paul von Hindenburg\nNazi Germany -> continent -> Europe\nNazi Germany -> currency -> Reichsmark\nNazi Germany -> basic form of government -> one-party dictatorship, dictatorship, republic, semi-presidential system\nNazi Germany -> shares border with -> Vichy France, French Third Republic, First Czechoslovak Republic, Protectorate of Bohemia and Moravia, Independent State of Croatia, Slovak Republic, General Government, Memelland, Kingdom of Italy, Federal State of Austria, Kingdom of Yugoslavia, Second Polish Republic, First Republic of Austria, Kingdom of Hungary, Second Czechoslovak Republic, Soviet Union, Belgium, Denmark, Luxembourg, Switzerland"
+    },
+    {
+        "qid": "time_1161_ab_en",
+        "question": "What was Lincoln named after during the period from 1867 to 1870?",
+        "QType": "time",
+        "reference": "Lincoln -> OpenStreetMap relation ID -> 169588\nLincoln -> FIPS 55-3 (locations in the US) -> 31-28000\nLincoln -> inception -> 1856-01-01T00:00:00Z\nLincoln -> postal code -> 68510, 68527, 68521, 68526, 68542, 68544, 68523, 68531, 68583, 68508, 68501, 68505, 68588, 68514, 68512, 68501–68510, 68516–68517, 68520–68524, 68526–68529, 68531–68532\nLincoln -> Freebase ID -> /m/04gxf"
+    },
+    {
+        "qid": "dilemma_ab_en_2705",
+        "question": "What type of income does Noisebridge rely on: \"pay to play\" or \"donation\"?",
+        "QType": "dilemma",
+        "reference": "Noisebridge -> street address -> 272 Capp St, San Francisco, CA 94110\nNoisebridge -> Freebase ID -> /m/04y7h97\nNoisebridge -> Instagram username -> noisebridgehackerspace\nNoisebridge -> Facebook username -> noisebridge\nNoisebridge -> phone number -> +1-415-800-6786"
+    },
+    {
+        "qid": "dilemma_ab_en_2280",
+        "question": "What is the working language associated with El Popola Ĉinio, \"Indigenous languages of the Americas\" or \"Esperanto\"?",
+        "QType": "dilemma",
+        "reference": "El Popola Ĉinio -> Google Knowledge Graph ID -> /g/121_jcwd\nEl Popola Ĉinio -> Facebook username -> epc.elpopolachinio\nEl Popola Ĉinio -> official website -> , \nEl Popola Ĉinio -> language of work or name -> Esperanto\nEl Popola Ĉinio -> coordinate location -> Point(116.33222 39.92639)"
+    },
+    {
+        "qid": "dilemma_ab_en_1707",
+        "question": "Which organization has a partnership with United Cities and Local Governments, \"Institut Congolais pour la Conservation de la Nature\" or \"the United Nations\"?",
+        "QType": "dilemma",
+        "reference": "United Cities and Local Governments -> NACSIS-CAT author ID -> DA16692027\nUnited Cities and Local Governments -> country -> Spain\nUnited Cities and Local Governments -> official language -> Spanish, English, French\nUnited Cities and Local Governments -> logo image -> UCLG%20logo.png\nUnited Cities and Local Governments -> VIAF cluster ID -> 167631234"
+    },
+    {
+        "qid": "time_432_ab_en",
+        "question": "From 2002 to 2005, Pierrefonds was included in which entity?",
+        "QType": "time",
+        "reference": "Pierrefonds -> located in the administrative territorial entity -> Pierrefonds-Roxboro\nPierrefonds -> instance of -> quarter, administrative sector, city\nPierrefonds -> GeoNames ID -> 6104319\nPierrefonds -> Commons category -> Pierrefonds (Montréal)\nPierrefonds -> Freebase ID -> /m/036kbh"
+    },
+    {
+        "qid": "dilemma_ab_en_303",
+        "question": "Which domains are controlled or protected by Scholastica, cystic fibrosis or book?",
+        "QType": "dilemma",
+        "reference": "Scholastica -> Iconclass notation -> 11HH(SCHOLASTICA)\nScholastica -> given name -> Scholastica\nScholastica -> NL CR AUT ID -> xx0029968\nScholastica -> Find a Grave memorial ID -> 13046\nScholastica -> Sandrart.net person ID -> 1747"
+    },
+    {
+        "qid": "time_664_ab_en",
+        "question": "What was the profession of Harald Klak during the years 812 to 813?",
+        "QType": "time",
+        "reference": "Harald Klak -> manner of death -> natural causes\nHarald Klak -> sibling -> Hemming Halfdansson, Reginfrid, Anulo\nHarald Klak -> date of baptism -> 0826-06-28T00:00:00Z\nHarald Klak -> replaces -> Sigfred\nHarald Klak -> Store norske leksikon (Great Norwegian Encyclopedia) ID -> Harald_Klak"
+    },
+    {
+        "qid": "inter_ab_929",
+        "question": "Which individual is married to Linda McCartney and also appears in the film A Hard Day's Night?",
+        "QType": "inter",
+        "reference": "Linda McCartney -> image -> ETH-BIB-Montreux%2C%20Linda%20McCartney-Com%20L21-0605-0002-0003.tif\nLinda McCartney -> award received -> Ellis Island Medal of Honor\nLinda McCartney -> genre -> pop rock\nLinda McCartney -> Bibliothèque nationale de France ID -> 13934438h\nLinda McCartney -> IdRef ID -> 033490074"
+    },
+    {
+        "qid": "dilemma_ab_en_2302",
+        "question": "What were the contributing factors to the destruction of the Hindenburg disaster, Impact or Qingxi Reservoir?",
+        "QType": "dilemma",
+        "reference": "Hindenburg disaster -> coordinate location -> Point(-74.325745 40.030392)\nHindenburg disaster -> number of missing -> 2\nHindenburg disaster -> cause of destruction -> explosion, impact\nHindenburg disaster -> Atlas Obscura ID -> hindenburg-crash-site\nHindenburg disaster -> vessel -> airship"
+    },
+    {
+        "qid": "dilemma_ab_en_908",
+        "question": "What content is part of Up Idol, \"Summer Scent\" or \"Up Idol, season 2\"?",
+        "QType": "dilemma",
+        "reference": "Up Idol -> followed by -> Up Idol\nUp Idol -> Weibo user ID -> 5623328200\nUp Idol -> Google Knowledge Graph ID -> /g/11cmqkff8t\nUp Idol -> publication date -> 2015-01-01T00:00:00Z\nUp Idol -> end time -> 2017-10-20T00:00:00Z"
+    },
+    {
+        "qid": "time_777_ab_en",
+        "question": "What has taken the place of Charleroi since the year 1977?",
+        "QType": "time",
+        "reference": "Charleroi -> Commons category -> Charleroi\nCharleroi -> part of -> Emergency zone Hainaut East\nCharleroi -> image -> Charleroi%20-%20H%C3%B4tel%20de%20ville%20vu%20de%20la%20place%20Charles%20II%20-%202019-06-01.jpg\nCharleroi -> Bibliothèque nationale de France ID -> 121592309\nCharleroi -> flag image -> Drapeau%20ville%20be%20Charleroi.svg"
+    },
+    {
+        "qid": "time_1133_ab_en",
+        "question": "Which station was located next to Sinsa Station in the year 2022?",
+        "QType": "time",
+        "reference": "Sinsa Station -> inception -> 1985-01-01T00:00:00Z\nSinsa Station -> transport network -> Seoul Metropolitan Subway\nSinsa Station -> different from -> Saejeol Station\nSinsa Station -> located in the administrative territorial entity -> Sinsa-dong\nSinsa Station -> adjacent station -> Nonhyeon Station, Apgujeong Station, Jamwon Station"
+    },
+    {
+        "qid": "inter_ab_1141",
+        "question": "Who is the offspring of Maurizio Ganz and also part of the Italy national under-19 football team?",
+        "QType": "inter",
+        "reference": "Maurizio Ganz -> Transfermarkt manager ID -> 29136\nMaurizio Ganz -> mass -> 70\nMaurizio Ganz -> Lega Serie A player ID (archived) -> GANMA\nMaurizio Ganz -> WorldFootball.net person ID -> maurizio-ganz\nMaurizio Ganz -> work period (start) -> 1986-01-01T00:00:00Z"
+    },
+    {
+        "qid": "dilemma_ab_en_816",
+        "question": "Which concept is considered the opposite of censorship: \"right to petition\" or \"freedom of speech\"?",
+        "QType": "dilemma",
+        "reference": "censorship -> subclass of -> job activity, social issue, media regulation\ncensorship -> Dewey Decimal Classification -> 303.376\ncensorship -> Freebase ID -> /m/01n0b\ncensorship -> Library of Congress Classification -> KB2478\ncensorship -> OmegaWiki Defined Meaning -> 388179"
+    },
+    {
+        "qid": "time_1140_ab_en",
+        "question": "Who was the presenter of The Daily Show Mondays with Jon Stewart from 1999 to 2015?",
+        "QType": "time",
+        "reference": "The Daily Show -> presenter -> Jon Stewart\nThe Daily Show -> genre -> late-night talk show, political satire\nThe Daily Show -> composer -> Bob Mould\nThe Daily Show -> creator -> Lizz Winstead, Madeleine Smithberg\nThe Daily Show -> Library of Congress authority ID -> n97120028"
+    },
+    {
+        "qid": "dilemma_ab_en_2068",
+        "question": "Who holds the position of head of state in Norway, Geoffrey Chaucer or Harald V of Norway?",
+        "QType": "dilemma",
+        "reference": "Norway -> legislative body -> Stortinget\nNorway -> top-level Internet domain -> .no\nNorway -> contains the administrative territorial entity -> Trøndelag, Agder, Innlandet, Vestland, Oslo, Telemark, Jan Mayen, Bouvet Island, Svalbard, Østfold, Akershus, Buskerud, Vestfold, Møre og Romsdal, Rogaland, Nordland, Troms, Finnmark\nNorway -> flag image -> Flag%20of%20Norway.svg\nNorway -> currency -> Norwegian krone"
+    },
+    {
+        "qid": "inter_ab_324",
+        "question": "Who is the sibling of Princess Margaret, Countess of Snowdon, and has also served as the head of state of Alberta?",
+        "QType": "inter",
+        "reference": "Princess Margaret, Countess of Snowdon -> instance of -> human\nPrincess Margaret, Countess of Snowdon -> religion or worldview -> Church of England\nPrincess Margaret, Countess of Snowdon -> image -> Prinses%20Margaret%20in%20het%20Amstel%20Hotel%20%28Bestanddeelnr%20917-7739%29.jpg\nPrincess Margaret, Countess of Snowdon -> family -> House of Windsor\nPrincess Margaret, Countess of Snowdon -> place of death -> King Edward VII's Hospital"
+    },
+    {
+        "qid": "dilemma_ab_en_395",
+        "question": "Who holds the position of rector at Université catholique de Louvain, Ezio Auditore da Firenze or Didier Lambert?",
+        "QType": "dilemma",
+        "reference": "Université catholique de Louvain -> MusicBrainz place ID -> 81511cc5-3192-4d0e-b623-13d6fbb7b831\nUniversité catholique de Louvain -> main subject -> lifestance organisation\nUniversité catholique de Louvain -> image -> Belgique%20-%20Brabant%20wallon%20-%20Halles%20universitaires%20de%20Louvain-la-Neuve%20-%2001.jpg\nUniversité catholique de Louvain -> instance of -> Catholic university, educational institution, academic publisher, organization\nUniversité catholique de Louvain -> member of -> Coimbra Group, International Association of Universities, European University Association, Top International Managers in Engineering, Agence universitaire de la Francophonie, Innovative Multicultural Curricula for the Young European and US Engineers and Scientists, ORCID, Inc., Guild of European Research-Intensive Universities, Open Education Global, Brussels Studies Institute, Coalition for Advancing Research Assessment, Circle U"
+    },
+    {
+        "qid": "dilemma_ab_en_1129",
+        "question": "What event does the Victory Monument honor, \"the War of the Spanish Succession\" or \"World War I\"?",
+        "QType": "dilemma",
+        "reference": "Victory Monument -> archINFORM project ID -> 80282\nVictory Monument -> Chicago Landmarks ID -> 1444\nVictory Monument -> image -> Victory%20Monument%20Chicago.jpg\nVictory Monument -> Commons category -> Victory Monument (Chicago)\nVictory Monument -> located in the administrative territorial entity -> Chicago"
+    },
+    {
+        "qid": "time_1083_ab_en",
+        "question": "Which actor portrayed the character Greg Heffley during the years 2010 to 2012?",
+        "QType": "time",
+        "reference": "Greg Heffley -> performer -> Zachary Gordon, Jason Drucker\nGreg Heffley -> Fandom article ID -> diary-of-a-wimpy-kid:Greg_Heffley\nGreg Heffley -> present in work -> Diary of a Wimpy Kid, Diary of a Wimpy Kid: Rodrick Rules, Diary of a Wimpy Kid, Diary of a Wimpy Kid: Dog Days, Diary of a Wimpy Kid: The Long Haul\nGreg Heffley -> given name -> Gregory, Greg\nGreg Heffley -> sibling -> Manny Heffley, Rodrick Heffley"
+    },
+    {
+        "qid": "time_1470_ab_en",
+        "question": "Who served as the president of Italy from 1962 to 1964?",
+        "QType": "time",
+        "reference": "Italy -> head of government -> Giorgia Meloni\nItaly -> anthem -> Il Canto degli Italiani\nItaly -> named after -> Roman Italy\nItaly -> follows -> Kingdom of Italy\nItaly -> capital -> Rome"
+    },
+    {
+        "qid": "inter_ab_52",
+        "question": "Who served as the head of government in the Fourth cabinet of Napoleon III and was also the husband of Eugènie de Montijo?",
+        "QType": "inter",
+        "reference": "Fourth cabinet of Napoleon III -> Commons category -> Ministers of Napoléon III (4)\nFourth cabinet of Napoleon III -> country -> France\nFourth cabinet of Napoleon III -> basic form of government -> Second French Empire\nFourth cabinet of Napoleon III -> Commons category -> Ministers of Napoléon III (4)\nFourth cabinet of Napoleon III -> has part(s) -> Jean-Baptiste Philibert Vaillant, Adolphe Niel, Edmond Le Bœuf, Adolphe de Forcade La Roquette, Pierre Magne, Alfred Le Roux, Charles Rigault de Genouilly, Edmond Valléry Gressier, Henri de La Tour d'Auvergne-Lauraguais, Jean-Baptiste Duvergier, Louis Olivier Bourbeau, Prosper de Chasseloup-Laubat"
+    },
+    {
+        "qid": "time_600_ab_en",
+        "question": "Who was Poppaea Sabina's husband during the years 62 to 65?",
+        "QType": "time",
+        "reference": "Poppaea Sabina -> Gran Enciclopèdia Catalana ID (former scheme) -> 0052112\nPoppaea Sabina -> date of birth -> 0030-01-01T00:00:00Z\nPoppaea Sabina -> Nationale Thesaurus voor Auteursnamen ID -> 146953150\nPoppaea Sabina -> Find a Grave memorial ID -> 33332339\nPoppaea Sabina -> topic's main category -> Category:Poppaea Sabina"
+    },
+    {
+        "qid": "time_864_ab_en",
+        "question": "In what location did the Normandy Format take place in the year 2016?",
+        "QType": "time",
+        "reference": "Normandy Format -> main subject -> Russo-Ukrainian War\nNormandy Format -> participant -> Vladimir Putin, France, Russia, Germany, Ukraine\nNormandy Format -> Freebase ID -> /m/012vtj8v\nNormandy Format -> dissolved, abolished or demolished date -> 2022-02-24T00:00:00Z\nNormandy Format -> instance of -> summit, recurring event"
+    },
+    {
+        "qid": "inter_ab_736",
+        "question": "Who is the mother of Ève Curie and was also married to Pierre Curie?",
+        "QType": "inter",
+        "reference": "Ève Curie -> place of burial -> Metairie Cemetery\nÈve Curie -> mother -> Marie Curie\nÈve Curie -> instance of -> human\nÈve Curie -> NACSIS-CAT author ID -> DA01967620\nÈve Curie -> award received -> National Book Award, Croix de guerre 1939–1945, Officer of the Legion of Honour, Knight of the Legion of Honour, Officer of the Order of Polonia Restituta, Commander of the Order of Polonia Restituta"
+    },
+    {
+        "qid": "dilemma_ab_en_1983",
+        "question": "Which countries or administrative subdivisions does North America share its border with, Forma Urbis Romae or Eurasia?",
+        "QType": "dilemma",
+        "reference": "North America -> coordinate location -> Point(-105.0 47.0)\nNorth America -> locator map image -> Location%20North%20America.svg\nNorth America -> NDL Authority ID -> 00566024\nNorth America -> has part(s) -> Caribbean, Northern America and Mexico, Central America, Greenland\nNorth America -> contains the administrative territorial entity -> Trinidad and Tobago, Saint Vincent and the Grenadines, Saint Kitts and Nevis, Saint Lucia, Jamaica, Grenada, Guatemala, The Bahamas, Honduras, Antigua and Barbuda, Dominican Republic, Dominica, Haiti, El Salvador, Costa Rica, Panama, Nicaragua, Bermuda, Canada, United States"
+    },
+    {
+        "qid": "inter_ab_1221",
+        "question": "Who is the offspring of Jack Reagan and also the person who employs Dana Rohrabacher?",
+        "QType": "inter",
+        "reference": "Jack Reagan -> Prabook ID -> 2096997\nJack Reagan -> family name -> Reagan\nJack Reagan -> sex or gender -> male\nJack Reagan -> Geni.com profile ID -> 6000000002810511029\nJack Reagan -> FactGrid item ID -> Viira"
+    },
+    {
+        "qid": "time_1554_ab_en",
+        "question": "In which league was Oyonnax Rugby competing from 2003 to 2013?",
+        "QType": "time",
+        "reference": "Oyonnax Rugby -> social media followers -> 164138\nOyonnax Rugby -> league or competition -> Top 14\nOyonnax Rugby -> YouTube channel ID -> UCGUKx5-MemqMwaSn67Rz_3Q\nOyonnax Rugby -> X (Twitter) username -> OyonnaxRugby\nOyonnax Rugby -> inception -> 1909-01-01T00:00:00Z"
+    },
+    {
+        "qid": "inter_ab_1100",
+        "question": "What is the location of the capital city of the Metropolitan City of Milan, and where can I find the burial site of Lothair II of Italy?",
+        "QType": "inter",
+        "reference": "Metropolitan City of Milan -> local dialing code -> 02, 0371, 0363, 0331\nMetropolitan City of Milan -> capital -> Milan\nMetropolitan City of Milan -> coordinate location -> Point(9.19034 45.4642)\nMetropolitan City of Milan -> official website -> \nMetropolitan City of Milan -> postal code -> 20121-20162 Milano"
+    },
+    {
+        "qid": "dilemma_ab_en_2668",
+        "question": "Which languages can Nitobe Inazō speak, write, or sign, specifically Esperanto or Interlingua?",
+        "QType": "dilemma",
+        "reference": "Nitobe Inazō -> National Library of Spain SpMaBN ID (BNE v1.0) -> XX1102358\nNitobe Inazō -> SBN author ID -> SBLV165048\nNitobe Inazō -> National Library of Israel ID (old) -> 000271467\nNitobe Inazō -> Libraries Australia ID -> 35388691\nNitobe Inazō -> IdRef ID -> 027048543"
+    },
+    {
+        "qid": "inter_ab_778",
+        "question": "Who serves as the mother of Sibylla of Armenia and is also the offspring of Leo I, the King of Armenia?",
+        "QType": "inter",
+        "reference": "Sibylla of Armenia -> spouse -> Bohemond VI of Antioch\nSibylla of Armenia -> sex or gender -> female\nSibylla of Armenia -> father -> Hethum I\nSibylla of Armenia -> mother -> Isabella I, Queen of Armenia\nSibylla of Armenia -> Roglo person ID -> p=sybille;n=hetoumide"
+    },
+    {
+        "qid": "dilemma_ab_en_394",
+        "question": "Who holds the position of rector at I. L. Caragiale National University of Theatre and Film, Lucy Mancini or Liviu Lucaci?",
+        "QType": "dilemma",
+        "reference": "I. L. Caragiale National University of Theatre and Film -> official website -> www.unatc.ro\nI. L. Caragiale National University of Theatre and Film -> Library of Congress authority ID -> no2013096826\nI. L. Caragiale National University of Theatre and Film -> located in the administrative territorial entity -> Bucharest\nI. L. Caragiale National University of Theatre and Film -> GND ID -> 1272369935\nI. L. Caragiale National University of Theatre and Film -> GRID ID -> grid.445704.6"
+    },
+    {
+        "qid": "inter_ab_822",
+        "question": "Who is the mother of James the Just, and also recognized as the founder of Christianity?",
+        "QType": "inter",
+        "reference": "James the Just -> occupation -> presbyter\nJames the Just -> Commons category -> James the Just\nJames the Just -> instance of -> human\nJames the Just -> part of -> siblings of Jesus\nJames the Just -> mother -> Mary of Clopas"
+    },
+    {
+        "qid": "inter_ab_728",
+        "question": "Who is Hastings Russell, 12th Duke of Bedford's mother and also the wife of Herbrand Russell, the 11th Duke of Bedford?",
+        "QType": "inter",
+        "reference": "Hastings Russell, 12th Duke of Bedford -> occupation -> politician, ornithologist, aristocrat\nHastings Russell, 12th Duke of Bedford -> country of citizenship -> United Kingdom\nHastings Russell, 12th Duke of Bedford -> member of political party -> British Union of Fascists\nHastings Russell, 12th Duke of Bedford -> country of citizenship -> United Kingdom\nHastings Russell, 12th Duke of Bedford -> child -> Ian Russell, 13th Duke of Bedford, Lord Hugh Russell, Lady Daphne Russell"
+    },
+    {
+        "qid": "inter_ab_136",
+        "question": "Who served as the head of government for First S. Abe Cabinet while also being the author of Japan's New Dawn?",
+        "QType": "inter",
+        "reference": "First S. Abe Cabinet -> applies to jurisdiction -> Japan\nFirst S. Abe Cabinet -> replaced by -> First S. Abe Cabinet (Reshuffled)\nFirst S. Abe Cabinet -> Freebase ID -> /m/0nbgy4s\nFirst S. Abe Cabinet -> instance of -> Cabinet of Japan, cabinet\nFirst S. Abe Cabinet -> follows -> Third Koizumi Cabinet (Reshuffle)"
+    },
+    {
+        "qid": "dilemma_ab_en_671",
+        "question": "What is the highest note that Tim Storms is capable of playing or singing, \"D♭\" or \"G\"?",
+        "QType": "dilemma",
+        "reference": "Tim Storms -> family name -> Storms\nTim Storms -> occupation -> singer, composer\nTim Storms -> Europeana entity -> agent/base/161007\nTim Storms -> instrument -> voice\nTim Storms -> sex or gender -> male"
+    },
+    {
+        "qid": "inter_ab_1117",
+        "question": "What is the location of the capital in the Region of Stettin and the burial site of Friedrich Graf von Wrangel?",
+        "QType": "inter",
+        "reference": "Region of Stettin -> located in the administrative territorial entity -> Pomerania Province\nRegion of Stettin -> image -> Stettin-Pom%C3%A9ranie%20occidentale-Mus%C3%A9um%20%26%20Regierungsgeb%C3%A4ude-avant%201940.jpg\nRegion of Stettin -> Kalliope-Verbund (GND) ID -> 44525-3\nRegion of Stettin -> dissolved, abolished or demolished date -> 1945-01-01T00:00:00Z\nRegion of Stettin -> image -> Stettin-Pom%C3%A9ranie%20occidentale-Mus%C3%A9um%20%26%20Regierungsgeb%C3%A4ude-avant%201940.jpg"
+    },
+    {
+        "qid": "time_61_ab_en",
+        "question": "Which award was given to An Unbelievable Story of Rape in 2016?",
+        "QType": "time",
+        "reference": "An Unbelievable Story of Rape -> award received -> Pulitzer Prize\nAn Unbelievable Story of Rape -> published in -> ProPublica, Westword, The Marshall Project\nAn Unbelievable Story of Rape -> main subject -> coercion, forensic science, false testimony, rape\nAn Unbelievable Story of Rape -> Google Knowledge Graph ID -> /g/11h_st15rd\nAn Unbelievable Story of Rape -> followed by -> 82842aa684abce4859df49fbd73300df"
+    },
+    {
+        "qid": "time_940_ab_en",
+        "question": "Which team did Thiago Motta coach in the year 2022?",
+        "QType": "time",
+        "reference": "Thiago Motta -> image -> Thiago%20Motta%20Bologna%202023.jpg\nThiago Motta -> given name -> Thiago\nThiago Motta -> languages spoken, written or signed -> Italian\nThiago Motta -> place of birth -> São Bernardo do Campo\nThiago Motta -> Freebase ID -> /m/073rnr"
+    },
+    {
+        "qid": "dilemma_ab_en_2522",
+        "question": "Which channel, network, website, or service aired the 64th British Academy Film Awards: \"Deutsche Hochschule für Politik\" or \"BBC\"?",
+        "QType": "dilemma",
+        "reference": "64th British Academy Film Awards -> Freebase ID -> /m/01176rvt\n64th British Academy Film Awards -> facet of -> British Academy Film Awards\n64th British Academy Film Awards -> country -> United Kingdom\n64th British Academy Film Awards -> instance of -> award ceremony\n64th British Academy Film Awards -> point in time -> 2011-02-13T00:00:00Z"
+    },
+    {
+        "qid": "dilemma_ab_en_2329",
+        "question": "In which location was Erasure formed, Borinage or England?",
+        "QType": "dilemma",
+        "reference": "Erasure -> genre -> new wave, synth-pop\nErasure -> MusicBrainz artist ID -> 43b58c98-3779-4b04-9a23-1c95cca3a145\nErasure -> Bibliothèque nationale de France ID -> 139033460\nErasure -> field of work -> musician\nErasure -> GND ID -> 5508489-8"
+    },
+    {
+        "qid": "inter_ab_470",
+        "question": "Who is Lorna Luft's sibling that also appeared in Arthur 2: On the Rocks?",
+        "QType": "inter",
+        "reference": "Lorna Luft -> Library of Congress authority ID -> n86025451\nLorna Luft -> educated at -> HB Studio, PS 6, Professional Children's School\nLorna Luft -> Freebase ID -> /m/01tnb8\nLorna Luft -> mother -> Judy Garland\nLorna Luft -> Kinobox person ID -> 830866"
+    },
+    {
+        "qid": "inter_ab_1248",
+        "question": "Who is the offspring of Alois Hitler and also appeared in the film Triumph of the Will?",
+        "QType": "inter",
+        "reference": "Alois Hitler -> Commons category -> Alois Hitler\nAlois Hitler -> country of citizenship -> Austrian Empire, Austria-Hungary\nAlois Hitler -> position held -> civil servant\nAlois Hitler -> IdRef ID -> 262078813\nAlois Hitler -> religion or worldview -> Catholic Church"
+    },
+    {
+        "qid": "time_563_ab_en",
+        "question": "Which military rank was held by Vladimir Arsenyev during the years 1912 and 1913?",
+        "QType": "time",
+        "reference": "Vladimir Arsenyev -> spouse -> Margarita Arseneva\nVladimir Arsenyev -> place of birth -> Saint Petersburg\nVladimir Arsenyev -> signature -> Arsenyev%20signature.png\nVladimir Arsenyev -> place of death -> Vladivostok\nVladimir Arsenyev -> country of citizenship -> Russian Republic, Soviet Union, Russian Empire"
+    },
+    {
+        "qid": "dilemma_ab_en_1420",
+        "question": "What is the theme music or song associated with Camp Lazlo: Takanori Arisawa, or Grandes études de Paganini?",
+        "QType": "dilemma",
+        "reference": "Camp Lazlo -> LUMIERE film ID -> 128080, 305642\nCamp Lazlo -> duration -> 22\nCamp Lazlo -> TheTVDB series ID -> 74816\nCamp Lazlo -> theme music -> Takanori Arisawa, Toshihiko Sahashi, Kōhei Tanaka, Andy Paley\nCamp Lazlo -> OFDb film ID -> 101070"
+    },
+    {
+        "qid": "time_727_ab_en",
+        "question": "Which states shared borders with the Confederate States from 1861 to 1865?",
+        "QType": "time",
+        "reference": "Confederate States of America -> shares border with -> Second Mexican Empire, Second Federal Republic of Mexico, United States\nConfederate States of America -> head of government -> Jefferson Davis\nConfederate States of America -> MeSH descriptor ID -> D059009\nConfederate States of America -> Commons category -> Confederate States\nConfederate States of America -> has seal, badge, or sigil -> Seal of the Confederate States"
+    },
+    {
+        "qid": "dilemma_ab_en_2874",
+        "question": "Who is the artist responsible for the pencil artwork in Doomsday Clock, \"Felix Solis\" or \"Gary Frank\"?",
+        "QType": "dilemma",
+        "reference": "Doomsday Clock -> publisher -> DC Comics\nDoomsday Clock -> takes place in fictional universe -> Watchmen universe\nDoomsday Clock -> start time -> 2017-11-22T00:00:00Z\nDoomsday Clock -> instance of -> limited series\nDoomsday Clock -> penciller -> Gary Frank"
+    },
+    {
+        "qid": "inter_ab_570",
+        "question": "Who holds the title of father to Bezprym and has served as the leader of Cavitas Schinesghe?",
+        "QType": "inter",
+        "reference": "Bezprym -> GND ID -> 1059829894\nBezprym -> position held -> Duke of Poland\nBezprym -> mother -> Judith of Hungary\nBezprym -> date of death -> 1032-01-01T00:00:00Z\nBezprym -> described by source -> Brockhaus and Efron Encyclopedic Dictionary, Polish Biographical Dictionary"
+    },
+    {
+        "qid": "time_1220_ab_en",
+        "question": "Who was the commander of the Mediterranean Division between 1913 and 1914?",
+        "QType": "time",
+        "reference": "Mediterranean Division -> country -> German Reich\nMediterranean Division -> inception -> 1912-11-05T00:00:00Z\nMediterranean Division -> military branch -> Imperial German Navy, Ottoman Navy\nMediterranean Division -> participated in conflict -> World War I\nMediterranean Division -> GND ID -> 4222811-6"
+    },
+    {
+        "qid": "time_1429_ab_en",
+        "question": "Who served as the president of Georgia during the years 2004 to 2007?",
+        "QType": "time",
+        "reference": "Georgia -> country -> Georgia\nGeorgia -> head of government -> Irakli Kobakhidze\nGeorgia -> flag image -> Flag%20of%20Georgia.svg\nGeorgia -> named after -> Georgians\nGeorgia -> image -> Abudelauri%20valley%20under%20clouds%2C%20early%20summer%2C%20Georgia.jpg"
+    },
+    {
+        "qid": "dilemma_ab_en_2654",
+        "question": "Who signed the Treaty of 1818, \"United States of America\" or \"Alfred von Schlieffen\"?",
+        "QType": "dilemma",
+        "reference": "Treaty of 1818 -> Freebase ID -> /m/035973\nTreaty of 1818 -> signatory -> British Empire, United States\nTreaty of 1818 -> Canadian Encyclopedia article ID -> convention-of-1818\nTreaty of 1818 -> instance of -> treaty\nTreaty of 1818 -> Commons category -> London Convention (1818)"
+    },
+    {
+        "qid": "inter_ab_1397",
+        "question": "Which individual is part of the United States Davis Cup team and is also recognized as the founder of the American Legion?",
+        "QType": "inter",
+        "reference": "United States Davis Cup team -> Freebase ID -> /m/0g0jc2\nUnited States Davis Cup team -> instance of -> Davis Cup team\nUnited States Davis Cup team -> sport -> tennis\nUnited States Davis Cup team -> participant in -> Davis Cup\nUnited States Davis Cup team -> country -> United States"
+    },
+    {
+        "qid": "inter_ab_502",
+        "question": "Which individual is the brother or sister of Tahiti Hernandez and has also been honored at the QQ Music Awards?",
+        "QType": "inter",
+        "reference": "Tahiti Hernandez -> IMDb ID -> nm5976045\nTahiti Hernandez -> family name -> Hernandez\nTahiti Hernandez -> sex or gender -> female\nTahiti Hernandez -> occupation -> singer-songwriter, film producer, actor\nTahiti Hernandez -> place of birth -> Honolulu"
+    },
+    {
+        "qid": "dilemma_ab_en_295",
+        "question": "Who served as the flag bearer for China during the 2012 Summer Olympics, Yi Jianlian or Diego Velázquez?",
+        "QType": "dilemma",
+        "reference": "China at the 2012 Summer Olympics -> sport -> Olympic sport\nChina at the 2012 Summer Olympics -> participant in -> 2012 Summer Olympics\nChina at the 2012 Summer Olympics -> country -> People's Republic of China\nChina at the 2012 Summer Olympics -> image -> China%20%287662674756%29.jpg\nChina at the 2012 Summer Olympics -> part of the series -> China at the Olympics"
+    },
+    {
+        "qid": "inter_ab_818",
+        "question": "Who is the mother of Princess Helena of the United Kingdom, and who also established the Decoration of the Royal Red Cross?",
+        "QType": "inter",
+        "reference": "Princess Helena of the United Kingdom -> Bibliothèque nationale de France ID -> 169466443\nPrincess Helena of the United Kingdom -> topic's main category -> Category:Princess Helena of the United Kingdom\nPrincess Helena of the United Kingdom -> described by source -> Dictionary of Women Worldwide\nPrincess Helena of the United Kingdom -> godparent -> Helene of Mecklenburg-Schwerin, Frederick William, Grand Duke of Mecklenburg-Strelitz, Princess Augusta of Hesse-Kassel\nPrincess Helena of the United Kingdom -> Freebase ID -> /m/01s46f"
+    },
+    {
+        "qid": "time_1811_ab_en",
+        "question": "What platform was utilized by The Room from 2012 to 2016?",
+        "QType": "time",
+        "reference": "The Room -> publication date -> 2012-09-12T00:00:00Z, 2013-03-23T00:00:00Z, 2014-07-28T00:00:00Z, 2018-10-18T00:00:00Z\nThe Room -> input device -> touchscreen\nThe Room -> publisher -> Fireproof Studios\nThe Room -> distribution format -> digital distribution, digital download\nThe Room -> developer -> Fireproof Studios"
+    },
+    {
+        "qid": "dilemma_ab_en_1171",
+        "question": "What types of cargo are bulk carriers designed to transport, Georges Brassens or bulk cargo?",
+        "QType": "dilemma",
+        "reference": "bulk carrier -> Elhuyar ZTH ID -> 139656\nbulk carrier -> De Agostini ID -> portarinfuse\nbulk carrier -> Freebase ID -> /m/04swrh\nbulk carrier -> image -> Sabrina%20I%20cropped.jpg\nbulk carrier -> designed to carry -> bulk cargo"
+    },
+    {
+        "qid": "dilemma_ab_en_935",
+        "question": "What Y-DNA haplogroup is associated with the Piast dynasty, is it \"Haplogroup R-M420\" or \"Haplogroup R-M207\"?",
+        "QType": "dilemma",
+        "reference": "Piast dynasty -> Great Russian Encyclopedia Online ID (old version) -> 3486727\nPiast dynasty -> CERL Thesaurus ID -> cnp02033854\nPiast dynasty -> Store norske leksikon (Great Norwegian Encyclopedia) ID -> Piast\nPiast dynasty -> dissolved, abolished or demolished date -> 1675-01-01T00:00:00Z\nPiast dynasty -> Fandom article ID -> cs.historika:Piastovci"
+    },
+    {
+        "qid": "dilemma_ab_en_1370",
+        "question": "Where can one find the diplomatic mission dispatched by Marek Wejtko, specifically \"Argentina Trade and Cultural Office\" or \"Polish Office in Taipei\"?",
+        "QType": "dilemma",
+        "reference": "Marek Wejtko -> date of birth -> 1953-01-01T00:00:00Z\nMarek Wejtko -> place of burial -> Northern Communal Cemetery in Warsaw\nMarek Wejtko -> country of citizenship -> Poland\nMarek Wejtko -> employer -> Ministry of Economy of Poland, Ministry of Economic Cooperation with Abroad (Poland), Ministry of Investment and Economic Development\nMarek Wejtko -> given name -> Marek"
+    },
+    {
+        "qid": "time_735_ab_en",
+        "question": "What did Virginia share a border with from 1796 to 1797?",
+        "QType": "time",
+        "reference": "Virginia -> coat of arms image -> Coat%20of%20arms%20of%20the%20Commonwealth%20of%20Virginia.png\nVirginia -> shares border with -> District of Columbia, West Virginia, Maryland, North Carolina, Tennessee, Kentucky\nVirginia -> located in or next to body of water -> Atlantic Ocean\nVirginia -> named after -> Colony of Virginia\nVirginia -> logo image -> Coat%20of%20arms%20of%20the%20Commonwealth%20of%20Virginia.png"
+    },
+    {
+        "qid": "inter_ab_1590",
+        "question": "Which composer is recognized for creating Yellow Submarine and is also the one who established Apple Records?",
+        "QType": "inter",
+        "reference": "Yellow Submarine -> Freebase ID -> /m/07bzz7\nYellow Submarine -> distributed by -> United Artists, Netflix\nYellow Submarine -> part of -> The Beatles filmography, Category:The Beatles' Yellow Submarine\nYellow Submarine -> Commons category -> Yellow Submarine (film)\nYellow Submarine -> composer -> John Lennon, The Beatles, Paul McCartney, George Harrison"
+    },
+    {
+        "qid": "inter_ab_1286",
+        "question": "Can you tell me the name of the person who authored 'Rob Legato: The Art of Creating Awe' and also directed the film 'Eloise'?",
+        "QType": "inter",
+        "reference": "Rob Legato: The art of creating awe -> inception -> 2012-06-26T00:00:00Z\nRob Legato: The art of creating awe -> part of -> TEDGlobal 2012\nRob Legato: The art of creating awe -> collection -> TED\nRob Legato: The art of creating awe -> instance of -> TED Global talk\nRob Legato: The art of creating awe -> genre -> educational film"
+    },
+    {
+        "qid": "time_6_ab_en",
+        "question": "For which team did Annibale Frossi play between 1936 and 1942?",
+        "QType": "time",
+        "reference": "Annibale Frossi -> nickname -> Dr. Thin\nAnnibale Frossi -> Freebase ID -> /m/04z6_n\nAnnibale Frossi -> SBN author ID -> SBLV261389\nAnnibale Frossi -> position played on team / speciality -> wing half\nAnnibale Frossi -> given name -> Annibale"
+    },
+    {
+        "qid": "time_1518_ab_en",
+        "question": "What organization was responsible for the ownership of the United States Hydrographic Office between 1949 and 1962?",
+        "QType": "time",
+        "reference": "United States Hydrographic Office -> NLA Trove people ID -> 999018\nUnited States Hydrographic Office -> has works in the collection -> Het Scheepvaartmuseum\nUnited States Hydrographic Office -> date of birth -> 1866-01-01T00:00:00Z\nUnited States Hydrographic Office -> BHL creator ID -> 26307\nUnited States Hydrographic Office -> on focus list of Wikimedia project -> Scheepvaartmuseum Wikidataproject"
+    },
+    {
+        "qid": "time_350_ab_en",
+        "question": "Between 1983 and 1987, what nationality did Victor Li hold?",
+        "QType": "time",
+        "reference": "Victor Li -> HKCAN ID -> 9811115465803406\nVictor Li -> given name -> Victor\nVictor Li -> father -> Li Ka-shing\nVictor Li -> sex or gender -> male\nVictor Li -> family name -> Li"
+    },
+    {
+        "qid": "dilemma_ab_en_3019",
+        "question": "What noble titles were held by Ludwig I of Bavaria, specifically as \"king\" or \"prince of Yugoslavia\"?",
+        "QType": "dilemma",
+        "reference": "Ludwig I of Bavaria -> sex or gender -> male\nLudwig I of Bavaria -> child -> Otto of Greece, Theodolinde Princess of Bavaria, Ludovico Florenzi, Maximilian II of Bavaria, Luitpold, Prince Regent of Bavaria, Prince Adalbert of Bavaria, Princess Mathilde Caroline of Bavaria, Princess Adelgunde of Bavaria, Princess Hildegard Louise of Bavaria, Princess Alexandra of Bavaria\nLudwig I of Bavaria -> place of death -> Nice\nLudwig I of Bavaria -> spouse -> Therese of Saxe-Hildburghausen\nLudwig I of Bavaria -> family -> House of Wittelsbach"
+    },
+    {
+        "qid": "time_1022_ab_en",
+        "question": "Who occupied the Stadio delle Alpi from the year 1990 until 2006?",
+        "QType": "time",
+        "reference": "Stadio delle Alpi -> instance of -> defunct sports venue\nStadio delle Alpi -> owned by -> Juventus FC\nStadio delle Alpi -> maximum capacity -> 69295\nStadio delle Alpi -> Structurae structure ID -> 20019314\nStadio delle Alpi -> country -> Italy"
+    },
+    {
+        "qid": "time_1310_ab_en",
+        "question": "What replaced Horch in 1932?",
+        "QType": "time",
+        "reference": "Horch -> location of formation -> Zwickau\nHorch -> product or material produced -> car\nHorch -> instance of -> automobile manufacturer\nHorch -> dissolved, abolished or demolished date -> 1940-01-01T00:00:00Z\nHorch -> named after -> August Horch"
+    },
+    {
+        "qid": "time_1763_ab_en",
+        "question": "Which record label did Shiga Lin work with from 2010 to 2017?",
+        "QType": "time",
+        "reference": "Shiga Lin -> sex or gender -> female\nShiga Lin -> MusicBrainz artist ID -> 87aaf234-2025-47c8-a5aa-c156408e9831\nShiga Lin -> Facebook username -> shigalin\nShiga Lin -> image -> Shiga%20Lin%20in%20June%202019.jpg\nShiga Lin -> date of birth -> 1988-06-29T00:00:00Z"
+    },
+    {
+        "qid": "inter_ab_14",
+        "question": "Who served as one of the heads of government for the North German Confederation and was also the father of Wilhelm von Bismarck?",
+        "QType": "inter",
+        "reference": "North German Confederation -> ISNI -> 0000000118848032\nNorth German Confederation -> Bibliothèque nationale de France ID -> 12205116n\nNorth German Confederation -> legislative body -> Reichstag\nNorth German Confederation -> IdRef ID -> 030684617\nNorth German Confederation -> GND ID -> 2033898-3"
+    },
+    {
+        "qid": "time_859_ab_en",
+        "question": "What was the location of Wiki Education Foundation during the years 2013 to 2020?",
+        "QType": "time",
+        "reference": "Wiki Education Foundation -> email address -> mailto:contact@wikiedu.org\nWiki Education Foundation -> legal form -> 501(c)(3) organization\nWiki Education Foundation -> interwiki prefix at Wikimedia -> wikiedudashboard\nWiki Education Foundation -> different from -> WikiProject Education, Wikimedia Education Program\nWiki Education Foundation -> official website -> wikiedu.org"
+    },
+    {
+        "qid": "inter_ab_1623",
+        "question": "Who serves as the editor of Vogue and is also a cast member in Mademoiselle C.?",
+        "QType": "inter",
+        "reference": "Vogue -> start time -> 1892-01-01T00:00:00Z\nVogue -> instance of -> brand, monthly magazine, weekly magazine, magazine\nVogue -> different from -> Vogue\nVogue -> language of work or name -> English\nVogue -> main subject -> fashion"
+    },
+    {
+        "qid": "dilemma_ab_en_2220",
+        "question": "Which compound represents the tautomer of prop-1-en-2-ol, acetone or 2'-deoxyadenosine triphosphate?",
+        "QType": "dilemma",
+        "reference": "prop-1-en-2-ol -> instance of -> type of chemical entity\nprop-1-en-2-ol -> canonical SMILES -> CC(=C)O\nprop-1-en-2-ol -> subclass of -> chemical compound\nprop-1-en-2-ol -> DSSTOX compound identifier -> DTXCID60106153\nprop-1-en-2-ol -> chemical formula -> C₃H₆O"
+    },
+    {
+        "qid": "inter_ab_192",
+        "question": "Who served as the head of government in Stoltenberg's First Cabinet and was also a cast member in the film Trollhunter?",
+        "QType": "inter",
+        "reference": "Stoltenberg's First Cabinet -> country -> Norway\nStoltenberg's First Cabinet -> dissolved, abolished or demolished date -> 2001-10-19T00:00:00Z\nStoltenberg's First Cabinet -> applies to jurisdiction -> Norway\nStoltenberg's First Cabinet -> inception -> 2000-03-17T00:00:00Z\nStoltenberg's First Cabinet -> head of state -> Harald V of Norway"
+    },
+    {
+        "qid": "dilemma_ab_en_2848",
+        "question": "Which location serves as the starting point for the Milky Milky Milk Tour: \"Casa dos Bicos\" or \"Chicago\"?",
+        "QType": "dilemma",
+        "reference": "Milky Milky Milk Tour -> MusicBrainz series ID -> 9a0cbeea-8ec6-467e-b9a6-8391700d6658\nMilky Milky Milk Tour -> start point -> Chicago\nMilky Milky Milk Tour -> destination point -> Los Angeles\nMilky Milky Milk Tour -> Google Knowledge Graph ID -> /g/11bw66s3ww\nMilky Milky Milk Tour -> start time -> 2015-11-19T00:00:00Z"
+    },
+    {
+        "qid": "inter_ab_645",
+        "question": "Who is Chelsea Clinton's father, and who employs Josh Gottheimer?",
+        "QType": "inter",
+        "reference": "Chelsea Clinton -> father -> Bill Clinton\nChelsea Clinton -> NACSIS-CAT author ID -> DA18984453\nChelsea Clinton -> Library of Congress authority ID -> n94073291\nChelsea Clinton -> employer -> McKinsey & Company, Clinton Foundation, Avenue Capital Group, Columbia University Mailman School of Public Health, Expedia Group, NBC, New York University\nChelsea Clinton -> image -> Chelsea%20Clinton%20at%20the%20British%20Embassy%20in%20Washington%2C%20D.C.%20on%20January%208%2C%202024%20%28cropped%29.jpg"
+    },
+    {
+        "qid": "dilemma_ab_en_430",
+        "question": "Which entity holds the highest judicial authority in Massachusetts, \"Massachusetts Supreme Judicial Court\" or \"Council of Wise Men of the plain of Murcia\"?",
+        "QType": "dilemma",
+        "reference": "Massachusetts -> seal image -> Seal%20of%20Massachusetts.svg\nMassachusetts -> VIAF cluster ID -> 130169058\nMassachusetts -> flag image -> Flag%20of%20Massachusetts.svg\nMassachusetts -> located in the administrative territorial entity -> United States\nMassachusetts -> image -> USA%20Cape%20Cod%203%20MA.jpg"
+    },
+    {
+        "qid": "time_1794_ab_en",
+        "question": "Which record label did MC Solaar sign with during the years 1991 to 1998?",
+        "QType": "time",
+        "reference": "MC Solaar -> sex or gender -> male\nMC Solaar -> genre -> French hip-hop, jazz rap, political hip-hop\nMC Solaar -> family name -> Solaar\nMC Solaar -> Bibliothèque nationale de France ID -> 13939697s\nMC Solaar -> educated at -> University of Paris, Lycée Français du Caire"
+    },
+    {
+        "qid": "inter_ab_1044",
+        "question": "Who served as the head of state in Nazi Germany and was also the employer of Constanze Manziarly?",
+        "QType": "inter",
+        "reference": "Nazi Germany -> dissolved, abolished or demolished date -> 1945-05-23T00:00:00Z\nNazi Germany -> basic form of government -> one-party dictatorship, dictatorship, republic, semi-presidential system\nNazi Germany -> Freebase ID -> /m/059z0\nNazi Germany -> said to be the same as -> Third Reich, Greater German Reich\nNazi Germany -> member of -> Axis Powers"
+    },
+    {
+        "qid": "inter_ab_1196",
+        "question": "Who is the offspring of Abd al-Aziz ibn Marwan and also serves as the designer of the White Mosque?",
+        "QType": "inter",
+        "reference": "Abd al-Aziz ibn Marwan -> country of citizenship -> Umayyad Caliphate\nAbd al-Aziz ibn Marwan -> date of death -> 0705-01-01T00:00:00Z\nAbd al-Aziz ibn Marwan -> given name -> Abd al-Aziz\nAbd al-Aziz ibn Marwan -> sex or gender -> male\nAbd al-Aziz ibn Marwan -> sibling -> Muhammad ibn Marwan, Bishr ibn Marwan, Aban ibn Marwan, Ubayd Allah ibn Marwan, Abd al-Malik ibn Marwan"
+    },
+    {
+        "qid": "dilemma_ab_en_3117",
+        "question": "Who serves as the head of government in Nicaragua, Roxana Scarlat or Daniel Ortega?",
+        "QType": "dilemma",
+        "reference": "Nicaragua -> shares border with -> Colombia, Honduras, Costa Rica\nNicaragua -> coat of arms image -> Coat%20of%20arms%20of%20Nicaragua.svg\nNicaragua -> Bibliothèque nationale de France ID -> 118808356\nNicaragua -> ISO 3166-1 alpha-3 code -> NIC\nNicaragua -> IdRef ID -> 026589842"
+    },
+    {
+        "qid": "time_1537_ab_en",
+        "question": "In which league did Juventus FC participate between the years 2007 and 2009?",
+        "QType": "time",
+        "reference": "Juventus FC -> stock exchange -> Italian Stock Exchange\nJuventus FC -> Library of Congress authority ID -> n79058447\nJuventus FC -> Commons category -> Juventus FC\nJuventus FC -> ISNI -> 000000041795824X\nJuventus FC -> named after -> Iuventas"
+    },
+    {
+        "qid": "inter_ab_1438",
+        "question": "Who directed the film Fanny and Alexander and is also known as the founder of the European Film Academy?",
+        "QType": "inter",
+        "reference": "Fanny and Alexander -> cast member -> Lena Olin, Harriet Andersson, Pernilla August, Allan Edwall, Peter Stormare, Erland Josephson, Käbi Laretei, Gunn Wållgren, Ewa Fröling, Georg Årlin, Gunnar Björnstrand, Mats Bergman, Jan Malmsjö, Börje Ahlstedt, Pernilla Wahlgren, Jarl Kulle, Christina Schollin, Gösta Prüzelius, Marie-Hélène Breillat, Anna Bergman\nFanny and Alexander -> distribution format -> video on demand\nFanny and Alexander -> instance of -> film\nFanny and Alexander -> image -> Fanny%20%26%20Alexander%20logotype.png\nFanny and Alexander -> IdRef ID -> 052506444"
+    },
+    {
+        "qid": "dilemma_ab_en_282",
+        "question": "Which type of GPU is utilized in the Xbox Series S, the ATI Wonder series or the RDNA 2?",
+        "QType": "dilemma",
+        "reference": "Xbox Series S -> title -> Xbox Series S\nXbox Series S -> start time -> 2020-01-01T00:00:00Z\nXbox Series S -> YouTube video ID -> KHLfCFMKxPg\nXbox Series S -> nominated for -> Golden Joystick Awards − Best Gaming Hardware\nXbox Series S -> price -> 249, 299, 3299, 113999"
+    },
+    {
+        "qid": "inter_ab_24",
+        "question": "Which individual has served as a head of government for the Galactic Empire and is also recognized as the father of Supreme Leader Snoke?",
+        "QType": "inter",
+        "reference": "Galactic Empire -> media franchise -> Star Wars\nGalactic Empire -> currency -> Galactic credit standard\nGalactic Empire -> capital -> Coruscant\nGalactic Empire -> Fandom article ID -> aliens:Galactic_Empire, cs.lore:Galaktické_impérium, disney:Galactic_Empire, fr.starwars:Empire_Galactique, lucasfilm:Galactic_Empire, scifi:Galactic_Empire, starwars:Galactic_Empire, sv.starwars:Galaktiska_imperiet, sv.stjarnornaskrig:Galaktiska_Imperiet, uk.aliens:Галактична_Імперія, video-games:Galactic_Empire\nGalactic Empire -> official language -> languages in Star Wars"
+    },
+    {
+        "qid": "inter_ab_1477",
+        "question": "Who wrote the screenplay for The Fatal Mallet and who designed CBS Studio Center?",
+        "QType": "inter",
+        "reference": "The Fatal Mallet -> copyright status -> public domain\nThe Fatal Mallet -> instance of -> short film\nThe Fatal Mallet -> Trakt.tv film ID -> 13919\nThe Fatal Mallet -> Kinobox film ID -> 140219\nThe Fatal Mallet -> director of photography -> Frank Williams"
+    },
+    {
+        "qid": "inter_ab_690",
+        "question": "Who is Sun Fo's father and the individual who founded the Kuomintang?",
+        "QType": "inter",
+        "reference": "Sun Fo -> ISNI -> 0000000109400682\nSun Fo -> occupation -> politician\nSun Fo -> place of birth -> Zhongshan\nSun Fo -> CALIS ID -> n2004431824\nSun Fo -> Commons category -> Sun Fo"
+    },
+    {
+        "qid": "dilemma_ab_en_723",
+        "question": "Who holds the copyright representation for Dolores Fuller, \"Brazilian Cultural Center\" or \"American Society of Composers, Authors and Publishers\"?",
+        "QType": "dilemma",
+        "reference": "Dolores Fuller -> Bibliothèque nationale de France ID -> 141793428\nDolores Fuller -> place of burial -> Palm Memorial Park Cemetery\nDolores Fuller -> unmarried partner -> Ed Wood\nDolores Fuller -> IdRef ID -> 192684051\nDolores Fuller -> IMDb ID -> nm0298215"
+    },
+    {
+        "qid": "inter_ab_959",
+        "question": "Who is the person married to Nadezhda Alliluyeva and also the founder of the Order of Lenin?",
+        "QType": "inter",
+        "reference": "Nadezhda Alliluyeva -> WorldCat Entities ID -> E39PBJgCKGrDGhyCKpkjXWYkjC\nNadezhda Alliluyeva -> Rodovid ID -> 126737\nNadezhda Alliluyeva -> cause of death -> gunshot wound\nNadezhda Alliluyeva -> date of death -> 1932-11-09T00:00:00Z\nNadezhda Alliluyeva -> BBC Things ID -> 490bd511-ba81-40bf-badb-fbaa366b597a"
+    },
+    {
+        "qid": "inter_ab_705",
+        "question": "Who is Georgina Bloomberg's father and a cast member from the show How I Met Your Mother?",
+        "QType": "inter",
+        "reference": "Georgina Bloomberg -> languages spoken, written or signed -> English\nGeorgina Bloomberg -> Prabook ID -> 2307681\nGeorgina Bloomberg -> unmarried partner -> Ramiro Quintana\nGeorgina Bloomberg -> Commons category -> Georgina Bloomberg\nGeorgina Bloomberg -> sport -> horse racing"
+    },
+    {
+        "qid": "inter_ab_162",
+        "question": "Who is the individual that has served as the head of government in Pau and is also recognized as the founder of the Democratic Movement?",
+        "QType": "inter",
+        "reference": "Pau -> logo image -> Pau%20logo%202018.svg\nPau -> country -> France\nPau -> coat of arms image -> Blason%20ville%20fr%20Pau%20%2864%29.svg\nPau -> logo image -> Pau%20logo%202018.svg\nPau -> Library of Congress authority ID -> n79083249"
+    },
+    {
+        "qid": "time_946_ab_en",
+        "question": "Which team did Nedo Sonetti coach during the years 2005 to 2006?",
+        "QType": "time",
+        "reference": "Nedo Sonetti -> date of birth -> 1941-02-25T00:00:00Z\nNedo Sonetti -> given name -> Nedo\nNedo Sonetti -> Commons category -> Nedo Sonetti\nNedo Sonetti -> occupation -> association football manager, association football player\nNedo Sonetti -> place of birth -> Piombino"
+    },
+    {
+        "qid": "time_163_ab_en",
+        "question": "Who was the owner of Saint George from 1856 until 1860?",
+        "QType": "time",
+        "reference": "Saint George -> inception -> 1460-01-01T00:00:00Z\nSaint George -> catalog code -> 32\nSaint George -> location -> Gallerie dell'Accademia\nSaint George -> Federico Zeri Foundation image ID -> 29872\nSaint George -> copyright status -> public domain"
+    },
+    {
+        "qid": "dilemma_ab_en_447",
+        "question": "What is the child astronomical body associated with HD 128311, specifically \"HD 128311 b\" or \"Gliese 809\"?",
+        "QType": "dilemma",
+        "reference": "HD 128311 -> instance of -> near-IR source, UV-emission source, star, double star\nHD 128311 -> child astronomical body -> HD 128311 b, HD 128311 c\nHD 128311 -> spectral class -> K3V\nHD 128311 -> mass -> 0.84\nHD 128311 -> apparent magnitude -> 7.446"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "qid": "time_1301_ab_en",
+        "question": "Which subsidiary did Infineon Technologies have from 2020 to 2021?",
+        "QType": "time",
+        "reference": "Infineon Technologies -> German Lobbyregister ID -> R001801\nInfineon Technologies -> Commons category -> Infineon\nInfineon Technologies -> VIAF cluster ID -> 158014219\nInfineon Technologies -> image -> Campeon%20Neubiberg.jpg\nInfineon Technologies -> country -> Germany"
+    },
+    {
+        "qid": "dilemma_ab_en_1685",
+        "question": "Which item has the same boundary as Ōu, Tōhoku region or Omote Nihon?",
+        "QType": "dilemma",
+        "reference": "Ōu -> instance of -> region of Japan\nŌu -> country -> Japan\nŌu -> coextensive with -> Tōhoku region\nŌu -> has part(s) -> Dewa Province, Mutsu Province\nŌu -> name in kana -> おうう"
+    },
+    {
+        "qid": "inter_ab_1023",
+        "question": "Who served as the leader of Nazi Germany and is also known for writing Mein Kampf?",
+        "QType": "inter",
+        "reference": "Nazi Germany -> head of state -> Karl Dönitz, Adolf Hitler, Paul von Hindenburg\nNazi Germany -> continent -> Europe\nNazi Germany -> currency -> Reichsmark\nNazi Germany -> basic form of government -> one-party dictatorship, dictatorship, republic, semi-presidential system\nNazi Germany -> shares border with -> Vichy France, French Third Republic, First Czechoslovak Republic, Protectorate of Bohemia and Moravia, Independent State of Croatia, Slovak Republic, General Government, Memelland, Kingdom of Italy, Federal State of Austria, Kingdom of Yugoslavia, Second Polish Republic, First Republic of Austria, Kingdom of Hungary, Second Czechoslovak Republic, Soviet Union, Belgium, Denmark, Luxembourg, Switzerland"
+    },
+    {
+        "qid": "dilemma_ab_en_1707",
+        "question": "Which organization has a partnership with United Cities and Local Governments, \"Institut Congolais pour la Conservation de la Nature\" or \"the United Nations\"?",
+        "QType": "dilemma",
+        "reference": "United Cities and Local Governments -> NACSIS-CAT author ID -> DA16692027\nUnited Cities and Local Governments -> country -> Spain\nUnited Cities and Local Governments -> official language -> Spanish, English, French\nUnited Cities and Local Governments -> logo image -> UCLG%20logo.png\nUnited Cities and Local Governments -> VIAF cluster ID -> 167631234"
+    },
+    {
+        "qid": "dilemma_ab_en_908",
+        "question": "What content is part of Up Idol, \"Summer Scent\" or \"Up Idol, season 2\"?",
+        "QType": "dilemma",
+        "reference": "Up Idol -> followed by -> Up Idol\nUp Idol -> Weibo user ID -> 5623328200\nUp Idol -> Google Knowledge Graph ID -> /g/11cmqkff8t\nUp Idol -> publication date -> 2015-01-01T00:00:00Z\nUp Idol -> end time -> 2017-10-20T00:00:00Z"
+    },
+    {
+        "qid": "inter_ab_1141",
+        "question": "Who is the offspring of Maurizio Ganz and also part of the Italy national under-19 football team?",
+        "QType": "inter",
+        "reference": "Maurizio Ganz -> Transfermarkt manager ID -> 29136\nMaurizio Ganz -> mass -> 70\nMaurizio Ganz -> Lega Serie A player ID (archived) -> GANMA\nMaurizio Ganz -> WorldFootball.net person ID -> maurizio-ganz\nMaurizio Ganz -> work period (start) -> 1986-01-01T00:00:00Z"
+    },
+    {
+        "qid": "dilemma_ab_en_395",
+        "question": "Who holds the position of rector at Université catholique de Louvain, Ezio Auditore da Firenze or Didier Lambert?",
+        "QType": "dilemma",
+        "reference": "Université catholique de Louvain -> MusicBrainz place ID -> 81511cc5-3192-4d0e-b623-13d6fbb7b831\nUniversité catholique de Louvain -> main subject -> lifestance organisation\nUniversité catholique de Louvain -> image -> Belgique%20-%20Brabant%20wallon%20-%20Halles%20universitaires%20de%20Louvain-la-Neuve%20-%2001.jpg\nUniversité catholique de Louvain -> instance of -> Catholic university, educational institution, academic publisher, organization\nUniversité catholique de Louvain -> member of -> Coimbra Group, International Association of Universities, European University Association, Top International Managers in Engineering, Agence universitaire de la Francophonie, Innovative Multicultural Curricula for the Young European and US Engineers and Scientists, ORCID, Inc., Guild of European Research-Intensive Universities, Open Education Global, Brussels Studies Institute, Coalition for Advancing Research Assessment, Circle U"
+    },
+    {
+        "qid": "inter_ab_736",
+        "question": "Who is the mother of Ève Curie and was also married to Pierre Curie?",
+        "QType": "inter",
+        "reference": "Ève Curie -> place of burial -> Metairie Cemetery\nÈve Curie -> mother -> Marie Curie\nÈve Curie -> instance of -> human\nÈve Curie -> NACSIS-CAT author ID -> DA01967620\nÈve Curie -> award received -> National Book Award, Croix de guerre 1939–1945, Officer of the Legion of Honour, Knight of the Legion of Honour, Officer of the Order of Polonia Restituta, Commander of the Order of Polonia Restituta"
+    },
+    {
+        "qid": "inter_ab_1221",
+        "question": "Who is the offspring of Jack Reagan and also the person who employs Dana Rohrabacher?",
+        "QType": "inter",
+        "reference": "Jack Reagan -> Prabook ID -> 2096997\nJack Reagan -> family name -> Reagan\nJack Reagan -> sex or gender -> male\nJack Reagan -> Geni.com profile ID -> 6000000002810511029\nJack Reagan -> FactGrid item ID -> Viira"
+    },
+    {
+        "qid": "dilemma_ab_en_2329",
+        "question": "In which location was Erasure formed, Borinage or England?",
+        "QType": "dilemma",
+        "reference": "Erasure -> genre -> new wave, synth-pop\nErasure -> MusicBrainz artist ID -> 43b58c98-3779-4b04-9a23-1c95cca3a145\nErasure -> Bibliothèque nationale de France ID -> 139033460\nErasure -> field of work -> musician\nErasure -> GND ID -> 5508489-8"
+    },
+    {
+        "qid": "time_563_ab_en",
+        "question": "Which military rank was held by Vladimir Arsenyev during the years 1912 and 1913?",
+        "QType": "time",
+        "reference": "Vladimir Arsenyev -> spouse -> Margarita Arseneva\nVladimir Arsenyev -> place of birth -> Saint Petersburg\nVladimir Arsenyev -> signature -> Arsenyev%20signature.png\nVladimir Arsenyev -> place of death -> Vladivostok\nVladimir Arsenyev -> country of citizenship -> Russian Republic, Soviet Union, Russian Empire"
+    },
+    {
+        "qid": "time_1220_ab_en",
+        "question": "Who was the commander of the Mediterranean Division between 1913 and 1914?",
+        "QType": "time",
+        "reference": "Mediterranean Division -> country -> German Reich\nMediterranean Division -> inception -> 1912-11-05T00:00:00Z\nMediterranean Division -> military branch -> Imperial German Navy, Ottoman Navy\nMediterranean Division -> participated in conflict -> World War I\nMediterranean Division -> GND ID -> 4222811-6"
+    },
+    {
+        "qid": "inter_ab_1397",
+        "question": "Which individual is part of the United States Davis Cup team and is also recognized as the founder of the American Legion?",
+        "QType": "inter",
+        "reference": "United States Davis Cup team -> Freebase ID -> /m/0g0jc2\nUnited States Davis Cup team -> instance of -> Davis Cup team\nUnited States Davis Cup team -> sport -> tennis\nUnited States Davis Cup team -> participant in -> Davis Cup\nUnited States Davis Cup team -> country -> United States"
+    },
+    {
+        "qid": "dilemma_ab_en_935",
+        "question": "What Y-DNA haplogroup is associated with the Piast dynasty, is it \"Haplogroup R-M420\" or \"Haplogroup R-M207\"?",
+        "QType": "dilemma",
+        "reference": "Piast dynasty -> Great Russian Encyclopedia Online ID (old version) -> 3486727\nPiast dynasty -> CERL Thesaurus ID -> cnp02033854\nPiast dynasty -> Store norske leksikon (Great Norwegian Encyclopedia) ID -> Piast\nPiast dynasty -> dissolved, abolished or demolished date -> 1675-01-01T00:00:00Z\nPiast dynasty -> Fandom article ID -> cs.historika:Piastovci"
+    },
+    {
+        "qid": "time_1022_ab_en",
+        "question": "Who occupied the Stadio delle Alpi from the year 1990 until 2006?",
+        "QType": "time",
+        "reference": "Stadio delle Alpi -> instance of -> defunct sports venue\nStadio delle Alpi -> owned by -> Juventus FC\nStadio delle Alpi -> maximum capacity -> 69295\nStadio delle Alpi -> Structurae structure ID -> 20019314\nStadio delle Alpi -> country -> Italy"
+    },
+    {
+        "qid": "inter_ab_192",
+        "question": "Who served as the head of government in Stoltenberg's First Cabinet and was also a cast member in the film Trollhunter?",
+        "QType": "inter",
+        "reference": "Stoltenberg's First Cabinet -> country -> Norway\nStoltenberg's First Cabinet -> dissolved, abolished or demolished date -> 2001-10-19T00:00:00Z\nStoltenberg's First Cabinet -> applies to jurisdiction -> Norway\nStoltenberg's First Cabinet -> inception -> 2000-03-17T00:00:00Z\nStoltenberg's First Cabinet -> head of state -> Harald V of Norway"
+    },
+    {
+        "qid": "time_1794_ab_en",
+        "question": "Which record label did MC Solaar sign with during the years 1991 to 1998?",
+        "QType": "time",
+        "reference": "MC Solaar -> sex or gender -> male\nMC Solaar -> genre -> French hip-hop, jazz rap, political hip-hop\nMC Solaar -> family name -> Solaar\nMC Solaar -> Bibliothèque nationale de France ID -> 13939697s\nMC Solaar -> educated at -> University of Paris, Lycée Français du Caire"
+    },
+    {
+        "qid": "dilemma_ab_en_3117",
+        "question": "Who serves as the head of government in Nicaragua, Roxana Scarlat or Daniel Ortega?",
+        "QType": "dilemma",
+        "reference": "Nicaragua -> shares border with -> Colombia, Honduras, Costa Rica\nNicaragua -> coat of arms image -> Coat%20of%20arms%20of%20Nicaragua.svg\nNicaragua -> Bibliothèque nationale de France ID -> 118808356\nNicaragua -> ISO 3166-1 alpha-3 code -> NIC\nNicaragua -> IdRef ID -> 026589842"
+    },
+    {
+        "qid": "time_1537_ab_en",
+        "question": "In which league did Juventus FC participate between the years 2007 and 2009?",
+        "QType": "time",
+        "reference": "Juventus FC -> stock exchange -> Italian Stock Exchange\nJuventus FC -> Library of Congress authority ID -> n79058447\nJuventus FC -> Commons category -> Juventus FC\nJuventus FC -> ISNI -> 000000041795824X\nJuventus FC -> named after -> Iuventas"
+    },
+    {
+        "qid": "dilemma_ab_en_282",
+        "question": "Which type of GPU is utilized in the Xbox Series S, the ATI Wonder series or the RDNA 2?",
+        "QType": "dilemma",
+        "reference": "Xbox Series S -> title -> Xbox Series S\nXbox Series S -> start time -> 2020-01-01T00:00:00Z\nXbox Series S -> YouTube video ID -> KHLfCFMKxPg\nXbox Series S -> nominated for -> Golden Joystick Awards − Best Gaming Hardware\nXbox Series S -> price -> 249, 299, 3299, 113999"
+    },
+    {
+        "qid": "inter_ab_24",
+        "question": "Which individual has served as a head of government for the Galactic Empire and is also recognized as the father of Supreme Leader Snoke?",
+        "QType": "inter",
+        "reference": "Galactic Empire -> media franchise -> Star Wars\nGalactic Empire -> currency -> Galactic credit standard\nGalactic Empire -> capital -> Coruscant\nGalactic Empire -> Fandom article ID -> aliens:Galactic_Empire, cs.lore:Galaktické_impérium, disney:Galactic_Empire, fr.starwars:Empire_Galactique, lucasfilm:Galactic_Empire, scifi:Galactic_Empire, starwars:Galactic_Empire, sv.starwars:Galaktiska_imperiet, sv.stjarnornaskrig:Galaktiska_Imperiet, uk.aliens:Галактична_Імперія, video-games:Galactic_Empire\nGalactic Empire -> official language -> languages in Star Wars"
+    },
+    {
+        "qid": "inter_ab_705",
+        "question": "Who is Georgina Bloomberg's father and a cast member from the show How I Met Your Mother?",
+        "QType": "inter",
+        "reference": "Georgina Bloomberg -> languages spoken, written or signed -> English\nGeorgina Bloomberg -> Prabook ID -> 2307681\nGeorgina Bloomberg -> unmarried partner -> Ramiro Quintana\nGeorgina Bloomberg -> Commons category -> Georgina Bloomberg\nGeorgina Bloomberg -> sport -> horse racing"
+    },
+    {
+        "qid": "inter_ab_162",
+        "question": "Who is the individual that has served as the head of government in Pau and is also recognized as the founder of the Democratic Movement?",
+        "QType": "inter",
+        "reference": "Pau -> logo image -> Pau%20logo%202018.svg\nPau -> country -> France\nPau -> coat of arms image -> Blason%20ville%20fr%20Pau%20%2864%29.svg\nPau -> logo image -> Pau%20logo%202018.svg\nPau -> Library of Congress authority ID -> n79083249"
+    },
+    {
+        "qid": "time_163_ab_en",
+        "question": "Who was the owner of Saint George from 1856 until 1860?",
+        "QType": "time",
+        "reference": "Saint George -> inception -> 1460-01-01T00:00:00Z\nSaint George -> catalog code -> 32\nSaint George -> location -> Gallerie dell'Accademia\nSaint George -> Federico Zeri Foundation image ID -> 29872\nSaint George -> copyright status -> public domain"
+    },
+    {
+        "qid": "dilemma_ab_en_447",
+        "question": "What is the child astronomical body associated with HD 128311, specifically \"HD 128311 b\" or \"Gliese 809\"?",
+        "QType": "dilemma",
+        "reference": "HD 128311 -> instance of -> near-IR source, UV-emission source, star, double star\nHD 128311 -> child astronomical body -> HD 128311 b, HD 128311 c\nHD 128311 -> spectral class -> K3V\nHD 128311 -> mass -> 0.84\nHD 128311 -> apparent magnitude -> 7.446"
+    }
+]
